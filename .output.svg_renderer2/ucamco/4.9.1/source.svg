@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="2.250000" height="3.500000" viewBox="0 0 2.250000 3.500000">
+<defs>
+<mask id="d0">
+<rect x="-1.125000" y="-1.750000" width="4.500000" height="7.000000" fill="white" />
+</mask>
+<g id="d1">
+<circle cx="0" cy="0" r="0.5" fill="#133d91ff" />
+</g>
+<g id="d2">
+<circle cx="0" cy="0" r="0.75" fill="#133d91ff" />
+</g>
+</defs>
+<g mask="url(#d0)">
+<g></g>
+<use xlink:href="#d1" x="0.500000" y="2.750000" />
+<path d="M0.500000,3.250000 L0.500000,2.250000 L1.500000,2.250000 L1.500000,3.250000 Z" fill="#133d91ff" />
+<use xlink:href="#d1" x="1.500000" y="2.750000" />
+<use xlink:href="#d2" x="1.500000" y="2.750000" />
+<path d="M2.250000,2.750000 L0.750000,2.750000 L0.750000,0.750000 L2.250000,0.750000 Z" fill="#133d91ff" />
+<use xlink:href="#d2" x="1.500000" y="0.750000" />
+</g>
+</svg>

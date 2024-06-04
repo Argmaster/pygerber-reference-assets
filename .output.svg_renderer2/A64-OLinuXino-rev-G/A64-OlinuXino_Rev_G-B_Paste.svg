@@ -1,0 +1,657 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="86.4660000" height="57.8780000" viewBox="0 0 86.4660000 57.8780000">
+<defs>
+<mask id="d0">
+<rect x="-43.2330000" y="-28.9390000" width="172.9320000" height="115.7560000" fill="white" />
+</mask>
+<g id="d1">
+<rect x="-0.9000000" y="-0.5000000" width="1.8000000" height="1.0000000" fill="#133d91ff" transform="rotate(0.0)" />
+</g>
+<g id="d2">
+<rect x="-0.2500000" y="-0.2750000" width="0.5000000" height="0.5500000" fill="#133d91ff" transform="rotate(0.0)" />
+</g>
+<g id="d3">
+<rect x="-1.1000000" y="-0.3000000" width="2.2000000" height="0.6000000" fill="#133d91ff" transform="rotate(0.0)" />
+</g>
+<g id="d4">
+<rect x="-0.2750000" y="-0.2500000" width="0.5500000" height="0.5000000" fill="#133d91ff" transform="rotate(0.0)" />
+</g>
+<g id="d5">
+<rect x="-0.3000000" y="-0.1750000" width="0.6000000" height="0.3500000" fill="#133d91ff" transform="rotate(0.0)" />
+</g>
+<g id="d6">
+<rect x="-0.4000000" y="-0.4750000" width="0.8000000" height="0.9500000" fill="#133d91ff" transform="rotate(0.0)" />
+</g>
+<g id="d7">
+<rect x="-0.4500000" y="-0.1750000" width="0.9000000" height="0.3500000" fill="#133d91ff" transform="rotate(0.0)" />
+</g>
+<g id="d8">
+<rect x="-0.3025000" y="-0.1525000" width="0.6050000" height="0.3050000" fill="#133d91ff" transform="rotate(0.0)" />
+</g>
+<g id="d9">
+<rect x="-0.3025000" y="-0.1150000" width="0.6050000" height="0.2300000" fill="#133d91ff" transform="rotate(0.0)" />
+</g>
+<g id="d10">
+<rect x="-0.5080000" y="-0.5080000" width="1.0160000" height="1.0160000" fill="#133d91ff" transform="rotate(0.0)" />
+</g>
+<g id="d11">
+<rect x="-1.3000000" y="-0.7000000" width="2.6000000" height="1.4000000" fill="#133d91ff" transform="rotate(0.0)" />
+</g>
+<g id="d12">
+<rect x="-0.9000000" y="-0.9000000" width="1.8000000" height="1.8000000" fill="#133d91ff" transform="rotate(0.0)" />
+</g>
+<g id="d13">
+<rect x="-0.9000000" y="-0.7000000" width="1.8000000" height="1.4000000" fill="#133d91ff" transform="rotate(0.0)" />
+</g>
+<g id="d14">
+<rect x="-0.5500000" y="-0.3500000" width="1.1000000" height="0.7000000" fill="#133d91ff" transform="rotate(0.0)" />
+</g>
+<g id="d15">
+<rect x="-0.1150000" y="-0.6400000" width="0.2300000" height="1.2800000" fill="#133d91ff" transform="rotate(0.0)" />
+</g>
+<g id="d16">
+<rect x="-1.2000000" y="-1.3000000" width="2.4000000" height="2.6000000" fill="#133d91ff" transform="rotate(0.0)" />
+</g>
+<g id="d17">
+<rect x="-0.5000000" y="-0.5000000" width="1.0000000" height="1.0000000" fill="#133d91ff" transform="rotate(0.0)" />
+</g>
+<g id="d18">
+<rect x="-0.4400000" y="-0.1150000" width="0.8800000" height="0.2300000" fill="#133d91ff" transform="rotate(0.0)" />
+</g>
+<g id="d19">
+<rect x="-0.1150000" y="-0.4400000" width="0.2300000" height="0.8800000" fill="#133d91ff" transform="rotate(0.0)" />
+</g>
+<g id="d20">
+<rect x="-0.2540000" y="-0.5080000" width="0.5080000" height="1.0160000" fill="#133d91ff" transform="rotate(0.0)" />
+</g>
+<g id="d21">
+<rect x="-0.3810000" y="-0.5080000" width="0.7620000" height="1.0160000" fill="#133d91ff" transform="rotate(0.0)" />
+</g>
+<g id="d22">
+<rect x="-0.7620000" y="-0.6350000" width="1.5240000" height="1.2700000" fill="#133d91ff" transform="rotate(0.0)" />
+</g>
+<g id="d23">
+<rect x="-0.8500000" y="-1.0000000" width="1.7000000" height="2.0000000" fill="#133d91ff" transform="rotate(0.0)" />
+</g>
+<g id="d24">
+<rect x="-0.5000000" y="-0.7000000" width="1.0000000" height="1.4000000" fill="#133d91ff" transform="rotate(0.0)" />
+</g>
+<g id="d25">
+<rect x="-0.7000000" y="-0.5000000" width="1.4000000" height="1.0000000" fill="#133d91ff" transform="rotate(0.0)" />
+</g>
+<g id="d26">
+<rect x="-0.9000000" y="-0.8000000" width="1.8000000" height="1.6000000" fill="#133d91ff" transform="rotate(0.0)" />
+</g>
+<g id="d27">
+<rect x="-1.3500000" y="-0.9000000" width="2.7000000" height="1.8000000" fill="#133d91ff" transform="rotate(0.0)" />
+</g>
+<g id="d28">
+<rect x="-0.6350000" y="-0.7620000" width="1.2700000" height="1.5240000" fill="#133d91ff" transform="rotate(0.0)" />
+</g>
+<g id="d29">
+<rect x="-0.7620000" y="-0.8890000" width="1.5240000" height="1.7780000" fill="#133d91ff" transform="rotate(0.0)" />
+</g>
+<g id="d30">
+<rect x="-0.5080000" y="-0.8890000" width="1.0160000" height="1.7780000" fill="#133d91ff" transform="rotate(0.0)" />
+</g>
+<g id="d31">
+<rect x="-1.0500000" y="-1.2000000" width="2.1000000" height="2.4000000" fill="#133d91ff" transform="rotate(0.0)" />
+</g>
+<g id="d32">
+<rect x="-1.1430000" y="-0.8890000" width="2.2860000" height="1.7780000" fill="#133d91ff" transform="rotate(0.0)" />
+</g>
+</defs>
+<g mask="url(#d0)">
+<g></g>
+<use xlink:href="#d1" x="29.1680000" y="20.5950000" />
+<use xlink:href="#d1" x="29.1680000" y="18.0950000" />
+<use xlink:href="#d2" x="41.6140000" y="9.0580000" />
+<use xlink:href="#d2" x="40.5980000" y="9.0580000" />
+<use xlink:href="#d3" x="50.8645010" y="49.9520010" />
+<use xlink:href="#d3" x="50.8645010" y="48.6820010" />
+<use xlink:href="#d3" x="50.8645010" y="47.4120010" />
+<use xlink:href="#d3" x="50.8645010" y="46.1420010" />
+<use xlink:href="#d3" x="45.8645010" y="46.1420010" />
+<use xlink:href="#d3" x="45.8645010" y="47.4120010" />
+<use xlink:href="#d3" x="45.8645010" y="48.6820010" />
+<use xlink:href="#d3" x="45.8645010" y="49.9520010" />
+<use xlink:href="#d4" x="52.6630000" y="48.8090000" />
+<use xlink:href="#d4" x="52.6630000" y="49.8250000" />
+<use xlink:href="#d2" x="42.3760000" y="9.0580000" />
+<use xlink:href="#d2" x="43.3920000" y="9.0580000" />
+<use xlink:href="#d4" x="40.0265000" y="15.3445000" />
+<use xlink:href="#d4" x="40.0265000" y="14.3285000" />
+<use xlink:href="#d2" x="33.2320000" y="51.4125000" />
+<use xlink:href="#d2" x="34.2480000" y="51.4125000" />
+<use xlink:href="#d2" x="29.5490000" y="51.3490000" />
+<use xlink:href="#d2" x="30.5650000" y="51.3490000" />
+<use xlink:href="#d2" x="32.4065000" y="51.4125000" />
+<use xlink:href="#d2" x="31.3905000" y="51.4125000" />
+<use xlink:href="#d2" x="30.5650000" y="50.4600000" />
+<use xlink:href="#d2" x="29.5490000" y="50.4600000" />
+<use xlink:href="#d2" x="34.2480000" y="52.3015000" />
+<use xlink:href="#d2" x="33.2320000" y="52.3015000" />
+<use xlink:href="#d2" x="30.5650000" y="52.3015000" />
+<use xlink:href="#d2" x="29.5490000" y="52.3015000" />
+<use xlink:href="#d2" x="27.7710000" y="50.4600000" />
+<use xlink:href="#d2" x="28.7870000" y="50.4600000" />
+<use xlink:href="#d2" x="32.4065000" y="52.3015000" />
+<use xlink:href="#d2" x="31.3905000" y="52.3015000" />
+<use xlink:href="#d2" x="43.3920000" y="8.1690000" />
+<use xlink:href="#d2" x="42.3760000" y="8.1690000" />
+<use xlink:href="#d5" x="71.9670000" y="41.1740000" />
+<use xlink:href="#d6" x="71.9670000" y="42.1740000" />
+<use xlink:href="#d7" x="73.0670000" y="42.4740000" />
+<use xlink:href="#d7" x="73.0670000" y="41.8240000" />
+<use xlink:href="#d7" x="73.0670000" y="41.1740000" />
+<use xlink:href="#d7" x="70.8670000" y="41.1740000" />
+<use xlink:href="#d7" x="70.8670000" y="41.8240000" />
+<use xlink:href="#d7" x="70.8670000" y="42.4740000" />
+<use xlink:href="#d8" x="57.6115000" y="27.7550000" />
+<use xlink:href="#d8" x="58.6365000" y="27.7550000" />
+<use xlink:href="#d9" x="57.6115000" y="27.2150000" />
+<use xlink:href="#d9" x="58.6365000" y="27.2150000" />
+<use xlink:href="#d9" x="57.6115000" y="26.7150000" />
+<use xlink:href="#d9" x="58.6365000" y="26.7150000" />
+<use xlink:href="#d8" x="57.6115000" y="26.1750000" />
+<use xlink:href="#d8" x="58.6365000" y="26.1750000" />
+<use xlink:href="#d2" x="40.5980000" y="8.1690000" />
+<use xlink:href="#d2" x="41.6140000" y="8.1690000" />
+<use xlink:href="#d10" x="58.5050000" y="37.8870000" />
+<use xlink:href="#d10" x="58.5050000" y="36.1090000" />
+<use xlink:href="#d3" x="49.0470000" y="3.9780000" />
+<use xlink:href="#d3" x="49.0470000" y="5.2480000" />
+<use xlink:href="#d3" x="49.0470000" y="6.5180000" />
+<use xlink:href="#d3" x="49.0470000" y="7.7880000" />
+<use xlink:href="#d3" x="55.5170000" y="7.7880000" />
+<use xlink:href="#d3" x="55.5170000" y="6.5180000" />
+<use xlink:href="#d3" x="55.5170000" y="5.2480000" />
+<use xlink:href="#d3" x="55.5170000" y="3.9780000" />
+<use xlink:href="#d11" x="1.3000000" y="50.8170000" />
+<use xlink:href="#d11" x="1.3000000" y="35.1170000" />
+<use xlink:href="#d12" x="10.9000000" y="36.0170000" />
+<use xlink:href="#d13" x="10.9000000" y="50.8170000" />
+<use xlink:href="#d14" x="11.7800000" y="49.5170000" />
+<use xlink:href="#d14" x="11.7800000" y="48.4170000" />
+<use xlink:href="#d14" x="11.7800000" y="47.3170000" />
+<use xlink:href="#d14" x="11.7800000" y="46.2170000" />
+<use xlink:href="#d14" x="11.7800000" y="45.1170000" />
+<use xlink:href="#d14" x="11.7800000" y="44.0170000" />
+<use xlink:href="#d14" x="11.7800000" y="42.9170000" />
+<use xlink:href="#d14" x="11.7800000" y="41.8170000" />
+<use xlink:href="#d14" x="11.7800000" y="40.7170000" />
+<use xlink:href="#d15" x="18.5760000" y="52.1550000" />
+<use xlink:href="#d15" x="19.0760000" y="52.1550000" />
+<use xlink:href="#d15" x="19.5760000" y="52.1550000" />
+<use xlink:href="#d15" x="20.0760000" y="52.1550000" />
+<use xlink:href="#d15" x="20.5760000" y="52.1550000" />
+<use xlink:href="#d15" x="21.0760000" y="52.1550000" />
+<use xlink:href="#d15" x="21.5760000" y="52.1550000" />
+<use xlink:href="#d15" x="22.0760000" y="52.1550000" />
+<use xlink:href="#d15" x="22.5760000" y="52.1550000" />
+<use xlink:href="#d15" x="23.0760000" y="52.1550000" />
+<use xlink:href="#d15" x="23.5760000" y="52.1550000" />
+<use xlink:href="#d15" x="24.0760000" y="52.1550000" />
+<use xlink:href="#d15" x="24.5760000" y="52.1550000" />
+<use xlink:href="#d15" x="25.0760000" y="52.1550000" />
+<use xlink:href="#d15" x="25.5760000" y="52.1550000" />
+<use xlink:href="#d15" x="26.0760000" y="52.1550000" />
+<use xlink:href="#d15" x="26.5760000" y="52.1550000" />
+<use xlink:href="#d15" x="27.0760000" y="52.1550000" />
+<use xlink:href="#d15" x="27.5760000" y="52.1550000" />
+<use xlink:href="#d15" x="28.0760000" y="52.1550000" />
+<use xlink:href="#d16" x="16.4260000" y="54.2550000" />
+<use xlink:href="#d16" x="30.2260000" y="54.2550000" />
+<use xlink:href="#d17" x="65.1344000" y="24.3996000" />
+<use xlink:href="#d17" x="63.8390000" y="24.3996000" />
+<use xlink:href="#d17" x="65.1344000" y="25.6950000" />
+<use xlink:href="#d17" x="65.1344000" y="26.9904000" />
+<use xlink:href="#d17" x="63.8390000" y="26.9904000" />
+<use xlink:href="#d17" x="62.5436000" y="26.9904000" />
+<use xlink:href="#d17" x="62.5436000" y="25.6950000" />
+<use xlink:href="#d18" x="67.4390000" y="22.9450000" />
+<use xlink:href="#d18" x="67.4390000" y="23.4450000" />
+<use xlink:href="#d18" x="67.4390000" y="23.9450000" />
+<use xlink:href="#d18" x="67.4390000" y="24.4450000" />
+<use xlink:href="#d18" x="67.4390000" y="24.9450000" />
+<use xlink:href="#d18" x="67.4390000" y="25.4450000" />
+<use xlink:href="#d18" x="67.4390000" y="25.9450000" />
+<use xlink:href="#d18" x="67.4390000" y="26.4450000" />
+<use xlink:href="#d18" x="67.4390000" y="26.9450000" />
+<use xlink:href="#d18" x="67.4390000" y="27.4450000" />
+<use xlink:href="#d18" x="67.4390000" y="27.9450000" />
+<use xlink:href="#d18" x="67.4390000" y="28.4450000" />
+<use xlink:href="#d19" x="66.5890000" y="29.2950000" />
+<use xlink:href="#d19" x="66.0890000" y="29.2950000" />
+<use xlink:href="#d19" x="65.5890000" y="29.2950000" />
+<use xlink:href="#d19" x="65.0890000" y="29.2950000" />
+<use xlink:href="#d19" x="64.5890000" y="29.2950000" />
+<use xlink:href="#d19" x="64.0890000" y="29.2950000" />
+<use xlink:href="#d19" x="63.5890000" y="29.2950000" />
+<use xlink:href="#d19" x="63.0890000" y="29.2950000" />
+<use xlink:href="#d19" x="62.5890000" y="29.2950000" />
+<use xlink:href="#d19" x="62.0890000" y="29.2950000" />
+<use xlink:href="#d19" x="61.5890000" y="29.2950000" />
+<use xlink:href="#d19" x="61.0890000" y="29.2950000" />
+<use xlink:href="#d18" x="60.2390000" y="28.4450000" />
+<use xlink:href="#d18" x="60.2390000" y="27.9450000" />
+<use xlink:href="#d18" x="60.2390000" y="27.4450000" />
+<use xlink:href="#d18" x="60.2390000" y="26.9450000" />
+<use xlink:href="#d18" x="60.2390000" y="26.4450000" />
+<use xlink:href="#d18" x="60.2390000" y="25.9450000" />
+<use xlink:href="#d18" x="60.2390000" y="25.4450000" />
+<use xlink:href="#d18" x="60.2390000" y="24.9450000" />
+<use xlink:href="#d18" x="60.2390000" y="24.4450000" />
+<use xlink:href="#d18" x="60.2390000" y="23.9450000" />
+<use xlink:href="#d18" x="60.2390000" y="23.4450000" />
+<use xlink:href="#d18" x="60.2390000" y="22.9450000" />
+<use xlink:href="#d19" x="61.0890000" y="22.0950000" />
+<use xlink:href="#d19" x="61.5890000" y="22.0950000" />
+<use xlink:href="#d19" x="62.0890000" y="22.0950000" />
+<use xlink:href="#d19" x="62.5890000" y="22.0950000" />
+<use xlink:href="#d19" x="63.0890000" y="22.0950000" />
+<use xlink:href="#d19" x="63.5890000" y="22.0950000" />
+<use xlink:href="#d19" x="64.0890000" y="22.0950000" />
+<use xlink:href="#d19" x="64.5890000" y="22.0950000" />
+<use xlink:href="#d19" x="65.0890000" y="22.0950000" />
+<use xlink:href="#d19" x="65.5890000" y="22.0950000" />
+<use xlink:href="#d19" x="66.0890000" y="22.0950000" />
+<use xlink:href="#d19" x="66.5890000" y="22.0950000" />
+<use xlink:href="#d17" x="62.5436000" y="24.3996000" />
+<use xlink:href="#d20" x="74.8880000" y="10.9630000" />
+<use xlink:href="#d20" x="75.6500000" y="10.9630000" />
+<use xlink:href="#d20" x="74.8880000" y="9.4390000" />
+<use xlink:href="#d20" x="75.6500000" y="9.4390000" />
+<use xlink:href="#d21" x="73.9990000" y="10.9630000" />
+<use xlink:href="#d21" x="73.9990000" y="9.4390000" />
+<use xlink:href="#d21" x="76.5390000" y="10.9630000" />
+<use xlink:href="#d21" x="76.5390000" y="9.4390000" />
+<use xlink:href="#d4" x="30.8190000" y="19.8530000" />
+<use xlink:href="#d4" x="30.8190000" y="18.8370000" />
+<use xlink:href="#d4" x="8.4670000" y="3.5970000" />
+<use xlink:href="#d4" x="8.4670000" y="2.5810000" />
+<use xlink:href="#d4" x="32.6150000" y="44.2930000" />
+<use xlink:href="#d4" x="32.6150000" y="43.2770000" />
+<use xlink:href="#d2" x="31.5810000" y="41.9510000" />
+<use xlink:href="#d2" x="32.5970000" y="41.9510000" />
+<use xlink:href="#d2" x="29.6760000" y="41.9510000" />
+<use xlink:href="#d2" x="30.6920000" y="41.9510000" />
+<use xlink:href="#d2" x="27.7710000" y="41.9510000" />
+<use xlink:href="#d2" x="28.7870000" y="41.9510000" />
+<use xlink:href="#d10" x="33.3590000" y="49.7615000" />
+<use xlink:href="#d10" x="31.5810000" y="49.7615000" />
+<use xlink:href="#d4" x="26.3740000" y="50.0790000" />
+<use xlink:href="#d4" x="26.3740000" y="49.0630000" />
+<use xlink:href="#d4" x="22.0560000" y="50.0790000" />
+<use xlink:href="#d4" x="22.0560000" y="49.0630000" />
+<use xlink:href="#d4" x="22.4150000" y="39.5770000" />
+<use xlink:href="#d4" x="22.4150000" y="40.5930000" />
+<use xlink:href="#d4" x="26.6280000" y="33.0610000" />
+<use xlink:href="#d4" x="26.6280000" y="34.0770000" />
+<use xlink:href="#d10" x="22.7040000" y="26.8850000" />
+<use xlink:href="#d10" x="20.9260000" y="26.8850000" />
+<use xlink:href="#d4" x="16.3150000" y="39.1770000" />
+<use xlink:href="#d4" x="16.3150000" y="40.1930000" />
+<use xlink:href="#d2" x="31.2230000" y="44.0850000" />
+<use xlink:href="#d2" x="30.2070000" y="44.0850000" />
+<use xlink:href="#d2" x="29.5490000" y="49.5710000" />
+<use xlink:href="#d2" x="30.5650000" y="49.5710000" />
+<use xlink:href="#d2" x="27.7710000" y="49.5710000" />
+<use xlink:href="#d2" x="28.7870000" y="49.5710000" />
+<use xlink:href="#d4" x="30.6150000" y="30.1930000" />
+<use xlink:href="#d4" x="30.6150000" y="29.1770000" />
+<use xlink:href="#d10" x="19.1260000" y="49.8850000" />
+<use xlink:href="#d10" x="20.9040000" y="49.8850000" />
+<use xlink:href="#d2" x="41.8230000" y="33.4850000" />
+<use xlink:href="#d2" x="40.8070000" y="33.4850000" />
+<use xlink:href="#d2" x="43.9230000" y="34.0850000" />
+<use xlink:href="#d2" x="42.9070000" y="34.0850000" />
+<use xlink:href="#d2" x="26.7550000" y="34.9660000" />
+<use xlink:href="#d2" x="27.7710000" y="34.9660000" />
+<use xlink:href="#d2" x="25.9230000" y="28.5850000" />
+<use xlink:href="#d2" x="24.9070000" y="28.5850000" />
+<use xlink:href="#d10" x="28.6600000" y="26.5840000" />
+<use xlink:href="#d10" x="30.4380000" y="26.5840000" />
+<use xlink:href="#d2" x="38.1070000" y="33.3850000" />
+<use xlink:href="#d2" x="39.1230000" y="33.3850000" />
+<use xlink:href="#d2" x="15.3070000" y="36.8850000" />
+<use xlink:href="#d2" x="16.3230000" y="36.8850000" />
+<use xlink:href="#d4" x="24.4150000" y="49.0930000" />
+<use xlink:href="#d4" x="24.4150000" y="48.0770000" />
+<use xlink:href="#d2" x="25.6230000" y="26.6850000" />
+<use xlink:href="#d2" x="24.6070000" y="26.6850000" />
+<use xlink:href="#d10" x="17.8260000" y="26.8850000" />
+<use xlink:href="#d10" x="19.6040000" y="26.8850000" />
+<use xlink:href="#d10" x="33.8670000" y="41.8240000" />
+<use xlink:href="#d10" x="33.8670000" y="43.6020000" />
+<use xlink:href="#d4" x="25.1150000" y="33.6930000" />
+<use xlink:href="#d4" x="25.1150000" y="32.6770000" />
+<use xlink:href="#d2" x="39.9070000" y="34.3850000" />
+<use xlink:href="#d2" x="40.9230000" y="34.3850000" />
+<use xlink:href="#d2" x="31.5230000" y="33.4850000" />
+<use xlink:href="#d2" x="30.5070000" y="33.4850000" />
+<use xlink:href="#d4" x="24.1150000" y="33.4770000" />
+<use xlink:href="#d4" x="24.1150000" y="34.4930000" />
+<use xlink:href="#d2" x="44.8070000" y="27.5850000" />
+<use xlink:href="#d2" x="45.8230000" y="27.5850000" />
+<use xlink:href="#d2" x="44.1070000" y="10.1350000" />
+<use xlink:href="#d2" x="45.1230000" y="10.1350000" />
+<use xlink:href="#d10" x="43.3285000" y="11.3440000" />
+<use xlink:href="#d10" x="45.1065000" y="11.3440000" />
+<use xlink:href="#d2" x="37.4570000" y="10.8850000" />
+<use xlink:href="#d2" x="38.4730000" y="10.8850000" />
+<use xlink:href="#d10" x="37.0760000" y="12.1350000" />
+<use xlink:href="#d10" x="38.8540000" y="12.1350000" />
+<use xlink:href="#d10" x="39.3260000" y="4.8850000" />
+<use xlink:href="#d10" x="41.1040000" y="4.8850000" />
+<use xlink:href="#d10" x="39.3260000" y="6.4350000" />
+<use xlink:href="#d10" x="41.1040000" y="6.4350000" />
+<use xlink:href="#d2" x="39.7230000" y="10.0350000" />
+<use xlink:href="#d2" x="38.7070000" y="10.0350000" />
+<use xlink:href="#d2" x="37.1070000" y="28.8850000" />
+<use xlink:href="#d2" x="38.1230000" y="28.8850000" />
+<use xlink:href="#d4" x="36.6400000" y="30.7180000" />
+<use xlink:href="#d4" x="36.6400000" y="29.7020000" />
+<use xlink:href="#d2" x="34.3070000" y="30.8850000" />
+<use xlink:href="#d2" x="35.3230000" y="30.8850000" />
+<use xlink:href="#d10" x="31.8350000" y="28.3620000" />
+<use xlink:href="#d10" x="33.6130000" y="28.3620000" />
+<use xlink:href="#d10" x="33.6130000" y="24.1710000" />
+<use xlink:href="#d10" x="31.8350000" y="24.1710000" />
+<use xlink:href="#d10" x="31.8350000" y="26.9650000" />
+<use xlink:href="#d10" x="33.6130000" y="26.9650000" />
+<use xlink:href="#d10" x="33.6130000" y="25.5680000" />
+<use xlink:href="#d10" x="31.8350000" y="25.5680000" />
+<use xlink:href="#d10" x="33.6130000" y="29.7590000" />
+<use xlink:href="#d10" x="31.8350000" y="29.7590000" />
+<use xlink:href="#d10" x="38.2650000" y="31.7490000" />
+<use xlink:href="#d10" x="38.2650000" y="29.9710000" />
+<use xlink:href="#d22" x="14.0550000" y="46.3960000" />
+<use xlink:href="#d22" x="14.0550000" y="44.3640000" />
+<use xlink:href="#d4" x="77.1740000" y="18.4560000" />
+<use xlink:href="#d4" x="77.1740000" y="19.4720000" />
+<use xlink:href="#d4" x="41.8400000" y="25.8430000" />
+<use xlink:href="#d4" x="41.8400000" y="24.8270000" />
+<use xlink:href="#d2" x="42.0230000" y="26.8850000" />
+<use xlink:href="#d2" x="41.0070000" y="26.8850000" />
+<use xlink:href="#d4" x="45.1150000" y="29.5930000" />
+<use xlink:href="#d4" x="45.1150000" y="28.5770000" />
+<use xlink:href="#d4" x="39.9150000" y="26.2770000" />
+<use xlink:href="#d4" x="39.9150000" y="27.2930000" />
+<use xlink:href="#d2" x="44.8070000" y="26.6850000" />
+<use xlink:href="#d2" x="45.8230000" y="26.6850000" />
+<use xlink:href="#d4" x="46.0150000" y="28.5770000" />
+<use xlink:href="#d4" x="46.0150000" y="29.5930000" />
+<use xlink:href="#d10" x="40.9790000" y="17.6940000" />
+<use xlink:href="#d10" x="42.7570000" y="17.6940000" />
+<use xlink:href="#d4" x="39.8150000" y="28.1770000" />
+<use xlink:href="#d4" x="39.8150000" y="29.1930000" />
+<use xlink:href="#d22" x="77.6820000" y="50.4600000" />
+<use xlink:href="#d22" x="77.6820000" y="48.4280000" />
+<use xlink:href="#d22" x="75.6500000" y="50.4600000" />
+<use xlink:href="#d22" x="75.6500000" y="48.4280000" />
+<use xlink:href="#d10" x="42.7570000" y="14.2650000" />
+<use xlink:href="#d10" x="44.5350000" y="14.2650000" />
+<use xlink:href="#d10" x="65.2360000" y="43.0940000" />
+<use xlink:href="#d10" x="67.0140000" y="43.0940000" />
+<use xlink:href="#d2" x="46.7230000" y="35.7850000" />
+<use xlink:href="#d2" x="45.7070000" y="35.7850000" />
+<use xlink:href="#d10" x="57.2350000" y="38.6490000" />
+<use xlink:href="#d10" x="55.4570000" y="38.6490000" />
+<use xlink:href="#d10" x="59.0130000" y="41.3160000" />
+<use xlink:href="#d10" x="60.7910000" y="41.3160000" />
+<use xlink:href="#d2" x="49.4880000" y="38.1410000" />
+<use xlink:href="#d2" x="50.5040000" y="38.1410000" />
+<use xlink:href="#d10" x="65.2360000" y="44.7450000" />
+<use xlink:href="#d10" x="67.0140000" y="44.7450000" />
+<use xlink:href="#d2" x="49.4880000" y="37.2520000" />
+<use xlink:href="#d2" x="50.5040000" y="37.2520000" />
+<use xlink:href="#d4" x="46.4150000" y="34.0930000" />
+<use xlink:href="#d4" x="46.4150000" y="33.0770000" />
+<use xlink:href="#d10" x="63.0770000" y="46.9040000" />
+<use xlink:href="#d10" x="63.0770000" y="45.1260000" />
+<use xlink:href="#d2" x="46.7230000" y="37.0850000" />
+<use xlink:href="#d2" x="45.7070000" y="37.0850000" />
+<use xlink:href="#d10" x="76.6660000" y="43.3480000" />
+<use xlink:href="#d10" x="74.8880000" y="43.3480000" />
+<use xlink:href="#d10" x="48.9800000" y="39.4110000" />
+<use xlink:href="#d10" x="48.9800000" y="41.1890000" />
+<use xlink:href="#d10" x="45.9320000" y="39.2840000" />
+<use xlink:href="#d10" x="44.1540000" y="39.2840000" />
+<use xlink:href="#d10" x="61.4260000" y="46.9040000" />
+<use xlink:href="#d10" x="61.4260000" y="45.1260000" />
+<use xlink:href="#d10" x="69.6810000" y="37.3790000" />
+<use xlink:href="#d10" x="69.6810000" y="39.1570000" />
+<use xlink:href="#d10" x="47.3290000" y="40.8080000" />
+<use xlink:href="#d10" x="45.5510000" y="40.8080000" />
+<use xlink:href="#d10" x="59.9020000" y="45.1260000" />
+<use xlink:href="#d10" x="59.9020000" y="46.9040000" />
+<use xlink:href="#d10" x="55.7110000" y="47.7930000" />
+<use xlink:href="#d10" x="57.4890000" y="47.7930000" />
+<use xlink:href="#d10" x="64.6010000" y="48.9360000" />
+<use xlink:href="#d10" x="66.3790000" y="48.9360000" />
+<use xlink:href="#d10" x="63.8390000" y="36.1090000" />
+<use xlink:href="#d10" x="63.8390000" y="34.3310000" />
+<use xlink:href="#d4" x="39.4150000" y="30.7770000" />
+<use xlink:href="#d4" x="39.4150000" y="31.7930000" />
+<use xlink:href="#d2" x="82.5080000" y="6.0100000" />
+<use xlink:href="#d2" x="81.4920000" y="6.0100000" />
+<use xlink:href="#d10" x="63.0770000" y="39.2840000" />
+<use xlink:href="#d10" x="63.0770000" y="41.0620000" />
+<use xlink:href="#d4" x="42.1150000" y="29.2770000" />
+<use xlink:href="#d4" x="42.1150000" y="30.2930000" />
+<use xlink:href="#d10" x="57.2350000" y="40.5540000" />
+<use xlink:href="#d10" x="55.4570000" y="40.5540000" />
+<use xlink:href="#d10" x="55.3300000" y="34.7120000" />
+<use xlink:href="#d10" x="55.3300000" y="36.4900000" />
+<use xlink:href="#d10" x="60.0290000" y="39.0300000" />
+<use xlink:href="#d10" x="61.8070000" y="39.0300000" />
+<use xlink:href="#d10" x="60.7910000" y="36.1090000" />
+<use xlink:href="#d10" x="60.7910000" y="34.3310000" />
+<use xlink:href="#d10" x="62.3150000" y="36.1090000" />
+<use xlink:href="#d10" x="62.3150000" y="34.3310000" />
+<use xlink:href="#d10" x="65.3630000" y="37.6330000" />
+<use xlink:href="#d10" x="63.5850000" y="37.6330000" />
+<use xlink:href="#d10" x="56.8540000" y="34.7120000" />
+<use xlink:href="#d10" x="56.8540000" y="36.4900000" />
+<use xlink:href="#d10" x="66.3790000" y="39.1570000" />
+<use xlink:href="#d10" x="64.6010000" y="39.1570000" />
+<use xlink:href="#d10" x="60.7910000" y="43.0940000" />
+<use xlink:href="#d10" x="59.0130000" y="43.0940000" />
+<use xlink:href="#d10" x="54.0600000" y="43.9830000" />
+<use xlink:href="#d10" x="55.8380000" y="43.9830000" />
+<use xlink:href="#d10" x="68.4110000" y="36.9980000" />
+<use xlink:href="#d10" x="68.4110000" y="35.2200000" />
+<use xlink:href="#d10" x="66.8870000" y="40.6810000" />
+<use xlink:href="#d10" x="65.1090000" y="40.6810000" />
+<use xlink:href="#d2" x="82.3810000" y="9.4390000" />
+<use xlink:href="#d2" x="81.3650000" y="9.4390000" />
+<use xlink:href="#d10" x="66.8870000" y="35.7280000" />
+<use xlink:href="#d10" x="66.8870000" y="33.9500000" />
+<use xlink:href="#d10" x="65.3630000" y="35.7280000" />
+<use xlink:href="#d10" x="65.3630000" y="33.9500000" />
+<use xlink:href="#d22" x="83.0160000" y="46.2690000" />
+<use xlink:href="#d22" x="83.0160000" y="44.2370000" />
+<use xlink:href="#d10" x="66.8870000" y="46.2690000" />
+<use xlink:href="#d10" x="65.1090000" y="46.2690000" />
+<use xlink:href="#d2" x="28.5330000" y="16.9320000" />
+<use xlink:href="#d2" x="29.5490000" y="16.9320000" />
+<use xlink:href="#d2" x="28.5330000" y="21.7580000" />
+<use xlink:href="#d2" x="29.5490000" y="21.7580000" />
+<use xlink:href="#d10" x="42.7570000" y="15.6620000" />
+<use xlink:href="#d10" x="44.5350000" y="15.6620000" />
+<use xlink:href="#d2" x="38.9230000" y="26.8850000" />
+<use xlink:href="#d2" x="37.9070000" y="26.8850000" />
+<use xlink:href="#d10" x="15.0710000" y="23.0280000" />
+<use xlink:href="#d10" x="16.8490000" y="23.0280000" />
+<use xlink:href="#d4" x="43.2150000" y="27.2190000" />
+<use xlink:href="#d4" x="43.2150000" y="26.2030000" />
+<use xlink:href="#d10" x="33.6130000" y="22.5200000" />
+<use xlink:href="#d10" x="31.8350000" y="22.5200000" />
+<use xlink:href="#d10" x="48.0910000" y="20.9960000" />
+<use xlink:href="#d10" x="49.8690000" y="20.9960000" />
+<use xlink:href="#d23" x="59.1400000" y="54.7380000" />
+<use xlink:href="#d23" x="59.1400000" y="49.7380000" />
+<use xlink:href="#d24" x="65.7390000" y="54.9050000" />
+<use xlink:href="#d24" x="61.9390000" y="54.9050000" />
+<use xlink:href="#d25" x="7.0344400" y="2.2660400" />
+<use xlink:href="#d25" x="7.0344400" y="4.1685000" />
+<use xlink:href="#d25" x="4.8246400" y="3.2134600" />
+<use xlink:href="#d25" x="63.8034400" y="51.0340400" />
+<use xlink:href="#d25" x="63.8034400" y="52.9365000" />
+<use xlink:href="#d25" x="61.5936400" y="51.9814600" />
+<use xlink:href="#d26" x="1.7360000" y="0.8000000" />
+<use xlink:href="#d26" x="1.7360000" y="3.6000000" />
+<use xlink:href="#d27" x="76.1580000" y="56.9780000" />
+<use xlink:href="#d27" x="76.1580000" y="52.5780000" />
+<use xlink:href="#d22" x="45.2970000" y="3.9780000" />
+<use xlink:href="#d22" x="43.2650000" y="3.9780000" />
+<use xlink:href="#d28" x="15.9600000" y="46.3960000" />
+<use xlink:href="#d28" x="15.9600000" y="44.3640000" />
+<use xlink:href="#d2" x="25.3230000" y="30.8850000" />
+<use xlink:href="#d2" x="24.3070000" y="30.8850000" />
+<use xlink:href="#d4" x="38.0580000" y="40.4270000" />
+<use xlink:href="#d4" x="38.0580000" y="41.4430000" />
+<use xlink:href="#d4" x="37.1690000" y="40.4270000" />
+<use xlink:href="#d4" x="37.1690000" y="41.4430000" />
+<use xlink:href="#d2" x="65.2360000" y="9.8200000" />
+<use xlink:href="#d2" x="66.2520000" y="9.8200000" />
+<use xlink:href="#d4" x="67.0140000" y="12.2330000" />
+<use xlink:href="#d4" x="67.0140000" y="13.2490000" />
+<use xlink:href="#d2" x="35.1370000" y="22.5200000" />
+<use xlink:href="#d2" x="36.1530000" y="22.5200000" />
+<use xlink:href="#d4" x="48.9800000" y="30.5210000" />
+<use xlink:href="#d4" x="48.9800000" y="31.5370000" />
+<use xlink:href="#d2" x="50.6310000" y="31.1560000" />
+<use xlink:href="#d2" x="51.6470000" y="31.1560000" />
+<use xlink:href="#d20" x="15.5790000" y="51.2220000" />
+<use xlink:href="#d20" x="16.3410000" y="51.2220000" />
+<use xlink:href="#d20" x="15.5790000" y="49.6980000" />
+<use xlink:href="#d20" x="16.3410000" y="49.6980000" />
+<use xlink:href="#d21" x="14.6900000" y="51.2220000" />
+<use xlink:href="#d21" x="14.6900000" y="49.6980000" />
+<use xlink:href="#d21" x="17.2300000" y="51.2220000" />
+<use xlink:href="#d21" x="17.2300000" y="49.6980000" />
+<use xlink:href="#d20" x="70.5700000" y="10.9630000" />
+<use xlink:href="#d20" x="71.3320000" y="10.9630000" />
+<use xlink:href="#d20" x="70.5700000" y="9.4390000" />
+<use xlink:href="#d20" x="71.3320000" y="9.4390000" />
+<use xlink:href="#d21" x="69.6810000" y="10.9630000" />
+<use xlink:href="#d21" x="69.6810000" y="9.4390000" />
+<use xlink:href="#d21" x="72.2210000" y="10.9630000" />
+<use xlink:href="#d21" x="72.2210000" y="9.4390000" />
+<use xlink:href="#d2" x="82.2540000" y="14.6460000" />
+<use xlink:href="#d2" x="81.2380000" y="14.6460000" />
+<use xlink:href="#d4" x="79.0790000" y="19.4720000" />
+<use xlink:href="#d4" x="79.0790000" y="18.4560000" />
+<use xlink:href="#d2" x="70.6970000" y="17.9480000" />
+<use xlink:href="#d2" x="71.7130000" y="17.9480000" />
+<use xlink:href="#d4" x="78.1900000" y="18.4560000" />
+<use xlink:href="#d4" x="78.1900000" y="19.4720000" />
+<use xlink:href="#d2" x="68.0300000" y="10.9630000" />
+<use xlink:href="#d2" x="67.0140000" y="10.9630000" />
+<use xlink:href="#d4" x="40.9150000" y="28.9930000" />
+<use xlink:href="#d4" x="40.9150000" y="27.9770000" />
+<use xlink:href="#d4" x="67.6490000" y="49.0630000" />
+<use xlink:href="#d4" x="67.6490000" y="48.0470000" />
+<use xlink:href="#d4" x="68.4110000" y="42.2050000" />
+<use xlink:href="#d4" x="68.4110000" y="41.1890000" />
+<use xlink:href="#d29" x="78.1900000" y="45.2530000" />
+<use xlink:href="#d29" x="75.3960000" y="45.2530000" />
+<use xlink:href="#d2" x="66.2520000" y="41.9510000" />
+<use xlink:href="#d2" x="67.2680000" y="41.9510000" />
+<use xlink:href="#d4" x="54.3140000" y="45.2530000" />
+<use xlink:href="#d4" x="54.3140000" y="46.2690000" />
+<use xlink:href="#d4" x="55.2030000" y="45.2530000" />
+<use xlink:href="#d4" x="55.2030000" y="46.2690000" />
+<use xlink:href="#d2" x="84.2860000" y="6.0100000" />
+<use xlink:href="#d2" x="85.3020000" y="6.0100000" />
+<use xlink:href="#d4" x="56.0920000" y="46.2690000" />
+<use xlink:href="#d4" x="56.0920000" y="45.2530000" />
+<use xlink:href="#d2" x="84.4130000" y="9.4390000" />
+<use xlink:href="#d2" x="85.4290000" y="9.4390000" />
+<use xlink:href="#d4" x="55.7110000" y="57.4450000" />
+<use xlink:href="#d4" x="55.7110000" y="56.4290000" />
+<use xlink:href="#d2" x="14.1820000" y="41.9510000" />
+<use xlink:href="#d2" x="13.1660000" y="41.9510000" />
+<use xlink:href="#d2" x="14.1820000" y="42.8400000" />
+<use xlink:href="#d2" x="13.1660000" y="42.8400000" />
+<use xlink:href="#d2" x="43.0110000" y="10.1375000" />
+<use xlink:href="#d2" x="41.9950000" y="10.1375000" />
+<use xlink:href="#d2" x="41.9950000" y="11.3350000" />
+<use xlink:href="#d2" x="40.9790000" y="11.3350000" />
+<use xlink:href="#d2" x="33.4860000" y="30.9020000" />
+<use xlink:href="#d2" x="32.4700000" y="30.9020000" />
+<use xlink:href="#d4" x="17.2150000" y="28.3770000" />
+<use xlink:href="#d4" x="17.2150000" y="29.3930000" />
+<use xlink:href="#d4" x="15.4150000" y="40.1930000" />
+<use xlink:href="#d4" x="15.4150000" y="39.1770000" />
+<use xlink:href="#d2" x="16.3230000" y="37.7850000" />
+<use xlink:href="#d2" x="15.3070000" y="37.7850000" />
+<use xlink:href="#d4" x="25.2945000" y="50.0790000" />
+<use xlink:href="#d4" x="25.2945000" y="49.0630000" />
+<use xlink:href="#d2" x="24.1230000" y="49.9850000" />
+<use xlink:href="#d2" x="23.1070000" y="49.9850000" />
+<use xlink:href="#d2" x="79.5870000" y="15.1540000" />
+<use xlink:href="#d2" x="78.5710000" y="15.1540000" />
+<use xlink:href="#d2" x="79.5870000" y="16.0430000" />
+<use xlink:href="#d2" x="78.5710000" y="16.0430000" />
+<use xlink:href="#d10" x="30.4380000" y="24.9330000" />
+<use xlink:href="#d10" x="28.6600000" y="24.9330000" />
+<use xlink:href="#d30" x="80.0950000" y="39.5380000" />
+<use xlink:href="#d30" x="83.6510000" y="39.5380000" />
+<use xlink:href="#d28" x="71.2050000" y="21.2500000" />
+<use xlink:href="#d28" x="69.1730000" y="21.2500000" />
+<use xlink:href="#d10" x="59.3940000" y="18.5830000" />
+<use xlink:href="#d10" x="59.3940000" y="16.8050000" />
+<use xlink:href="#d2" x="58.6320000" y="25.4410000" />
+<use xlink:href="#d2" x="57.6160000" y="25.4410000" />
+<use xlink:href="#d2" x="61.1720000" y="19.7895000" />
+<use xlink:href="#d2" x="60.1560000" y="19.7895000" />
+<use xlink:href="#d2" x="62.9500000" y="20.1070000" />
+<use xlink:href="#d2" x="61.9340000" y="20.1070000" />
+<use xlink:href="#d4" x="86.1910000" y="40.3000000" />
+<use xlink:href="#d4" x="86.1910000" y="39.2840000" />
+<use xlink:href="#d10" x="70.6970000" y="19.4720000" />
+<use xlink:href="#d10" x="68.9190000" y="19.4720000" />
+<use xlink:href="#d2" x="60.1560000" y="20.7420000" />
+<use xlink:href="#d2" x="59.1400000" y="20.7420000" />
+<use xlink:href="#d4" x="68.6650000" y="29.1240000" />
+<use xlink:href="#d4" x="68.6650000" y="30.1400000" />
+<use xlink:href="#d4" x="45.8050000" y="5.1845000" />
+<use xlink:href="#d4" x="45.8050000" y="6.2005000" />
+<use xlink:href="#d2" x="58.5050000" y="4.3590000" />
+<use xlink:href="#d2" x="57.4890000" y="4.3590000" />
+<use xlink:href="#d2" x="58.5050000" y="6.6450000" />
+<use xlink:href="#d2" x="57.4890000" y="6.6450000" />
+<use xlink:href="#d2" x="58.5050000" y="5.7560000" />
+<use xlink:href="#d2" x="57.4890000" y="5.7560000" />
+<use xlink:href="#d4" x="46.6940000" y="5.1845000" />
+<use xlink:href="#d4" x="46.6940000" y="6.2005000" />
+<use xlink:href="#d2" x="10.2450000" y="32.2990000" />
+<use xlink:href="#d2" x="9.2290000" y="32.2990000" />
+<use xlink:href="#d2" x="10.2450000" y="33.1880000" />
+<use xlink:href="#d2" x="9.2290000" y="33.1880000" />
+<use xlink:href="#d4" x="63.5850000" y="2.9620000" />
+<use xlink:href="#d4" x="63.5850000" y="1.9460000" />
+<use xlink:href="#d4" x="62.6960000" y="2.9620000" />
+<use xlink:href="#d4" x="62.6960000" y="1.9460000" />
+<use xlink:href="#d31" x="63.1320000" y="17.3130000" />
+<use xlink:href="#d31" x="66.8320000" y="17.3130000" />
+<use xlink:href="#d2" x="66.8235000" y="15.1540000" />
+<use xlink:href="#d2" x="65.8075000" y="15.1540000" />
+<use xlink:href="#d2" x="63.2040000" y="15.1540000" />
+<use xlink:href="#d2" x="64.2200000" y="15.1540000" />
+<use xlink:href="#d32" x="82.2540000" y="51.2040000" />
+<use xlink:href="#d32" x="82.2540000" y="55.5580000" />
+<use xlink:href="#d4" x="36.5650000" y="9.8770000" />
+<use xlink:href="#d4" x="36.5650000" y="10.8930000" />
+<use xlink:href="#d4" x="39.1375000" y="15.3445000" />
+<use xlink:href="#d4" x="39.1375000" y="14.3285000" />
+<use xlink:href="#d2" x="51.6470000" y="30.1400000" />
+<use xlink:href="#d2" x="50.6310000" y="30.1400000" />
+<use xlink:href="#d2" x="59.3940000" y="19.7895000" />
+<use xlink:href="#d2" x="58.3780000" y="19.7895000" />
+</g>
+</svg>

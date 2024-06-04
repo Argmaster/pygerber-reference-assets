@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="15.595990" height="4.446000" viewBox="0 0 15.595990 4.446000">
+<defs>
+<mask id="d0">
+<rect x="-7.797995" y="-2.223000" width="31.191980" height="8.892000" fill="white" />
+</mask>
+<g id="d1">
+<rect x="-1.100000" y="-0.525000" width="2.200000" height="1.050000" fill="#133d91ff" transform="rotate(0.0)" />
+</g>
+<g id="d2">
+<rect x="-0.525000" y="-0.500000" width="1.050000" height="1.000000" fill="#133d91ff" transform="rotate(0.0)" />
+</g>
+<g id="d3">
+<rect x="-0.475000" y="-0.225000" width="0.950000" height="0.450000" fill="#133d91ff" transform="rotate(0.0)" />
+</g>
+</defs>
+<g mask="url(#d0)">
+<g></g>
+<use xlink:href="#d1" x="2.049990" y="3.921000" />
+<use xlink:href="#d1" x="2.049990" y="0.971000" />
+<use xlink:href="#d2" x="0.525000" y="2.446000" />
+<use xlink:href="#d3" x="13.370990" y="0.225000" />
+<use xlink:href="#d3" x="13.370990" y="1.025000" />
+<use xlink:href="#d3" x="13.370990" y="1.825000" />
+<use xlink:href="#d3" x="13.370990" y="2.625000" />
+<use xlink:href="#d3" x="15.120990" y="0.225000" />
+<use xlink:href="#d3" x="15.120990" y="1.025000" />
+<use xlink:href="#d3" x="15.120990" y="1.825000" />
+<use xlink:href="#d3" x="15.120990" y="2.625000" />
+<use xlink:href="#d3" x="8.036990" y="0.225000" />
+<use xlink:href="#d3" x="8.036990" y="1.025000" />
+<use xlink:href="#d3" x="8.036990" y="1.825000" />
+<use xlink:href="#d3" x="8.036990" y="2.625000" />
+<use xlink:href="#d3" x="9.786990" y="0.225000" />
+<use xlink:href="#d3" x="9.786990" y="1.025000" />
+<use xlink:href="#d3" x="9.786990" y="1.825000" />
+<use xlink:href="#d3" x="9.786990" y="2.625000" />
+</g>
+</svg>

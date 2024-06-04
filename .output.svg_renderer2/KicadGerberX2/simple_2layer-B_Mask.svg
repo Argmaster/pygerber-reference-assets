@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="37.0700000" height="50.700000" viewBox="0 0 37.0700000 50.700000">
+<defs>
+<mask id="d0">
+<rect x="-18.5350000" y="-25.350000" width="74.1400000" height="101.400000" fill="white" />
+</mask>
+<g id="d1">
+<circle cx="0" cy="0" r="0.32500" fill="#133d91ff" />
+</g>
+<g id="d2">
+<rect x="-0.8000000" y="-0.8000000" width="1.6000000" height="1.6000000" fill="#133d91ff" rx="0.800000" ry="0.800000" transform="rotate(0.0)" />
+</g>
+<g id="d3">
+<circle cx="0" cy="0" r="1.80000" fill="#133d91ff" />
+</g>
+<g id="d4">
+<circle cx="0" cy="0" r="2.85000" fill="#133d91ff" />
+</g>
+<g id="d5">
+<rect x="-0.6750000" y="-0.6750000" width="1.3500000" height="1.3500000" fill="#133d91ff" transform="rotate(0.0)" />
+</g>
+<g id="d6">
+<rect x="-0.6750000" y="-0.6750000" width="1.3500000" height="1.3500000" fill="#133d91ff" rx="0.675000" ry="0.675000" transform="rotate(0.0)" />
+</g>
+</defs>
+<g mask="url(#d0)">
+<g></g>
+<use xlink:href="#d1" x="5.9800000" y="27.200000" />
+<use xlink:href="#d1" x="5.9800000" y="24.800000" />
+<use xlink:href="#d1" x="5.9800000" y="26.400000" />
+<use xlink:href="#d1" x="5.9800000" y="24.000000" />
+<use xlink:href="#d2" x="0.8000000" y="21.330000" />
+<use xlink:href="#d1" x="6.6800000" y="28.400000" />
+<use xlink:href="#d1" x="5.9800000" y="23.200000" />
+<use xlink:href="#d1" x="6.6800000" y="25.200000" />
+<use xlink:href="#d2" x="5.5300000" y="29.870000" />
+<use xlink:href="#d2" x="0.8000000" y="29.870000" />
+<use xlink:href="#d1" x="6.6800000" y="24.400000" />
+<use xlink:href="#d1" x="5.9800000" y="28.000000" />
+<use xlink:href="#d1" x="6.6800000" y="22.800000" />
+<use xlink:href="#d1" x="6.6800000" y="26.800000" />
+<use xlink:href="#d1" x="6.6800000" y="26.000000" />
+<use xlink:href="#d1" x="6.6800000" y="23.600000" />
+<use xlink:href="#d2" x="5.5300000" y="21.330000" />
+<use xlink:href="#d1" x="6.6800000" y="27.600000" />
+<use xlink:href="#d3" x="4.2200000" y="47.850000" />
+<use xlink:href="#d4" x="4.2200000" y="47.850000" />
+<use xlink:href="#d3" x="34.2200000" y="2.850000" />
+<use xlink:href="#d4" x="34.2200000" y="2.850000" />
+<use xlink:href="#d3" x="4.2200000" y="2.850000" />
+<use xlink:href="#d4" x="4.2200000" y="2.850000" />
+<use xlink:href="#d3" x="34.2200000" y="47.850000" />
+<use xlink:href="#d4" x="34.2200000" y="47.850000" />
+<use xlink:href="#d5" x="33.9700000" y="20.370000" />
+<use xlink:href="#d6" x="35.9700000" y="20.370000" />
+<use xlink:href="#d6" x="33.9700000" y="22.370000" />
+<use xlink:href="#d6" x="35.9700000" y="22.370000" />
+<use xlink:href="#d6" x="33.9700000" y="24.370000" />
+<use xlink:href="#d6" x="35.9700000" y="24.370000" />
+<use xlink:href="#d6" x="33.9700000" y="26.370000" />
+<use xlink:href="#d6" x="35.9700000" y="26.370000" />
+<use xlink:href="#d6" x="33.9700000" y="28.370000" />
+<use xlink:href="#d6" x="35.9700000" y="28.370000" />
+</g>
+</svg>

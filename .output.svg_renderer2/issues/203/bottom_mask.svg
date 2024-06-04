@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="72.01120" height="18.20320" viewBox="0 0 72.01120 18.20320">
+<defs>
+<mask id="d0">
+<rect x="-36.00560" y="-9.10160" width="144.02240" height="36.40640" fill="white" />
+</mask>
+<g id="d1">
+<circle cx="0" cy="0" r="0.8516" fill="#133d91ff" />
+</g>
+<mask id="d2">
+<rect x="-36.00560" y="-9.10160" width="144.02240" height="36.40640" fill="white" />
+</mask>
+<g id="d3">
+<rect x="-0.85160" y="-0.56250" width="1.70320" height="1.12500" fill="#133d91ff" transform="rotate(180.0)" />
+</g>
+<g id="d4">
+<rect x="-0.56250" y="-0.85160" width="1.12500" height="1.70320" fill="#133d91ff" transform="rotate(180.0)" />
+</g>
+<g id="d5">
+<circle cx="0" cy="0" r="0.2891" fill="#133d91ff" />
+</g>
+<g id="d6">
+<circle cx="0" cy="0" r="0.2891" fill="#133d91ff" />
+</g>
+<g id="d7">
+<circle cx="0" cy="0" r="0.2891" fill="#133d91ff" />
+</g>
+<g id="d8">
+<circle cx="0" cy="0" r="0.2891" fill="#133d91ff" />
+</g>
+<g mask="url(#d2)" id="d9">
+<g></g>
+<use xlink:href="#d3" x="-0E-105" y="0E-105" />
+<use xlink:href="#d4" x="-0E-105" y="0E-105" />
+<use xlink:href="#d5" x="-0.56250" y="0.56250" />
+<use xlink:href="#d6" x="0.56250" y="0.56250" />
+<use xlink:href="#d7" x="0.56250" y="-0.56250" />
+<use xlink:href="#d8" x="-0.56250" y="-0.56250" />
+</g>
+<mask id="d10">
+<rect x="-36.00560" y="-9.10160" width="144.02240" height="36.40640" fill="white" />
+</mask>
+<g id="d11">
+<rect x="-0.85160" y="0.00000" width="1.70320" height="0.00000" fill="#133d91ff" transform="rotate(180.0)" />
+</g>
+<g id="d12">
+<rect x="0.00000" y="-0.85160" width="0.00000" height="1.70320" fill="#133d91ff" transform="rotate(180.0)" />
+</g>
+<g id="d13">
+<circle cx="0" cy="0" r="0.8516" fill="#133d91ff" />
+</g>
+<g id="d14">
+<circle cx="0" cy="0" r="0.8516" fill="#133d91ff" />
+</g>
+<g id="d15">
+<circle cx="0" cy="0" r="0.8516" fill="#133d91ff" />
+</g>
+<g id="d16">
+<circle cx="0" cy="0" r="0.8516" fill="#133d91ff" />
+</g>
+<g mask="url(#d10)" id="d17">
+<g></g>
+<use xlink:href="#d11" x="-0E-105" y="0E-105" />
+<use xlink:href="#d12" x="-0E-105" y="0E-105" />
+<use xlink:href="#d13" x="0.00000" y="0.00000" />
+<use xlink:href="#d14" x="0.00000" y="0.00000" />
+<use xlink:href="#d15" x="0.00000" y="0.00000" />
+<use xlink:href="#d16" x="0.00000" y="0.00000" />
+</g>
+<g id="d18">
+<circle cx="0" cy="0" r="2.1516" fill="#133d91ff" />
+</g>
+<g id="d19">
+<circle cx="0" cy="0" r="0.5016" fill="#133d91ff" />
+</g>
+<g id="d20">
+<circle cx="0" cy="0" r="3.1016" fill="#133d91ff" />
+</g>
+</defs>
+<g mask="url(#d0)">
+<g></g>
+<use xlink:href="#d1" x="33.42210" y="11.94160" />
+<use xlink:href="#d1" x="28.34210" y="11.94160" />
+<use xlink:href="#d1" x="30.88210" y="11.94160" />
+<use xlink:href="#d1" x="25.80210" y="11.94160" />
+<use xlink:href="#d1" x="35.96210" y="11.94160" />
+<use xlink:href="#d1" x="48.66210" y="11.94160" />
+<use xlink:href="#d1" x="46.12210" y="11.94160" />
+<use xlink:href="#d1" x="43.58210" y="11.94160" />
+<use xlink:href="#d1" x="41.04210" y="11.94160" />
+<use xlink:href="#d1" x="38.50210" y="11.94160" />
+<use xlink:href="#d1" x="33.42210" y="14.48160" />
+<use xlink:href="#d1" x="33.42210" y="17.02160" />
+<use xlink:href="#d1" x="30.88210" y="14.48160" />
+<use xlink:href="#d1" x="28.34210" y="14.48160" />
+<use xlink:href="#d1" x="25.80210" y="14.48160" />
+<use xlink:href="#d1" x="30.88210" y="17.02160" />
+<use xlink:href="#d1" x="28.34210" y="17.02160" />
+<use xlink:href="#d1" x="35.96210" y="14.48160" />
+<use xlink:href="#d1" x="46.12210" y="14.48160" />
+<use xlink:href="#d1" x="43.58210" y="14.48160" />
+<use xlink:href="#d1" x="41.04210" y="14.48160" />
+<use xlink:href="#d1" x="38.50210" y="14.48160" />
+<use xlink:href="#d1" x="46.12210" y="17.02160" />
+<use xlink:href="#d1" x="43.58210" y="17.02160" />
+<use xlink:href="#d1" x="41.04210" y="17.02160" />
+<use xlink:href="#d1" x="38.50210" y="17.02160" />
+<use xlink:href="#d1" x="35.96210" y="17.02160" />
+<use xlink:href="#d1" x="48.56210" y="17.02160" />
+<use xlink:href="#d1" x="51.30210" y="17.02160" />
+<use xlink:href="#d1" x="53.84210" y="17.02160" />
+<use xlink:href="#d1" x="56.18210" y="17.02160" />
+<use xlink:href="#d1" x="58.92210" y="17.02160" />
+<use xlink:href="#d1" x="61.36210" y="17.02160" />
+<use xlink:href="#d1" x="63.90210" y="17.02160" />
+<use xlink:href="#d1" x="48.56210" y="14.48160" />
+<use xlink:href="#d1" x="53.84210" y="14.48160" />
+<use xlink:href="#d1" x="56.18210" y="14.48160" />
+<use xlink:href="#d1" x="61.36210" y="14.48160" />
+<use xlink:href="#d1" x="63.90210" y="14.48160" />
+<use xlink:href="#d1" x="51.20210" y="11.94160" />
+<use xlink:href="#d1" x="53.84210" y="11.94160" />
+<use xlink:href="#d1" x="56.18210" y="11.94160" />
+<use xlink:href="#d1" x="61.36210" y="11.94160" />
+<use xlink:href="#d1" x="63.90210" y="11.94160" />
+<use xlink:href="#d1" x="58.92210" y="14.48160" />
+<use xlink:href="#d1" x="58.92210" y="11.94160" />
+<use xlink:href="#d9" x="25.80210" y="17.02160" />
+<use xlink:href="#d17" x="51.30210" y="14.48160" />
+<use xlink:href="#d18" x="69.85960" y="14.78160" />
+<use xlink:href="#d18" x="19.85960" y="14.78160" />
+<use xlink:href="#d19" x="4.79866" y="4.79865" />
+<use xlink:href="#d19" x="1.40454" y="4.79865" />
+<use xlink:href="#d19" x="5.50160" y="3.10160" />
+<use xlink:href="#d19" x="4.79866" y="1.40454" />
+<use xlink:href="#d19" x="3.10160" y="5.50160" />
+<use xlink:href="#d19" x="0.70160" y="3.10160" />
+<use xlink:href="#d19" x="1.40454" y="1.40454" />
+<use xlink:href="#d19" x="3.10160" y="0.70160" />
+<use xlink:href="#d19" x="4.79866" y="16.79865" />
+<use xlink:href="#d19" x="1.40454" y="16.79865" />
+<use xlink:href="#d19" x="5.50160" y="15.10160" />
+<use xlink:href="#d19" x="4.79866" y="13.40454" />
+<use xlink:href="#d19" x="0.70160" y="15.10160" />
+<use xlink:href="#d19" x="1.40454" y="13.40454" />
+<use xlink:href="#d19" x="3.10160" y="12.70160" />
+<use xlink:href="#d19" x="3.10160" y="17.50160" />
+<use xlink:href="#d20" x="3.10160" y="3.10160" />
+<use xlink:href="#d20" x="3.10160" y="15.10160" />
+</g>
+</svg>

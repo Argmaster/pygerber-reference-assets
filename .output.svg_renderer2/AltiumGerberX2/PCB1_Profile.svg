@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="31.02540" height="21.02540" viewBox="0 0 31.02540 21.02540">
+<defs>
+<mask id="d0">
+<rect x="-15.51270" y="-10.51270" width="62.05080" height="42.05080" fill="white" />
+</mask>
+<g id="d1">
+<circle cx="0" cy="0" r="0.0127" fill="#133d91ff" />
+</g>
+</defs>
+<g mask="url(#d0)">
+<g></g>
+<use xlink:href="#d1" x="0.01270" y="21.01270" />
+<path d="M0.02540,21.01270 L0.00000,21.01270 L0.00000,0.01270 L0.02540,0.01270 Z" fill="#133d91ff" />
+<use xlink:href="#d1" x="0.01270" y="0.01270" />
+<use xlink:href="#d1" x="0.01270" y="0.01270" />
+<path d="M0.01270,0.02540 L0.01270,0.00000 L31.01270,0.00000 L31.01270,0.02540 Z" fill="#133d91ff" />
+<use xlink:href="#d1" x="31.01270" y="0.01270" />
+<use xlink:href="#d1" x="31.01270" y="0.01270" />
+<path d="M31.00000,0.01270 L31.02540,0.01270 L31.02540,21.01270 L31.00000,21.01270 Z" fill="#133d91ff" />
+<use xlink:href="#d1" x="31.01270" y="21.01270" />
+<use xlink:href="#d1" x="31.01270" y="21.01270" />
+<path d="M31.01270,21.00000 L31.01270,21.02540 L0.01270,21.02540 L0.01270,21.00000 Z" fill="#133d91ff" />
+<use xlink:href="#d1" x="0.01270" y="21.01270" />
+</g>
+</svg>
