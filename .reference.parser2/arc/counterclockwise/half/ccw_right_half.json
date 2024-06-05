@@ -1,0 +1,163 @@
+{
+  "commands": [
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D101",
+        "attributes": {
+          "mapping": {},
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "0.1",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "start_point": {
+        "x": {
+          "value": "0.000000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "-2.000000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "end_point": {
+        "x": {
+          "value": "0.000000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "2.000000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Line2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D101",
+        "attributes": {
+          "mapping": {},
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "0.1",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "start_point": {
+        "x": {
+          "value": "-2.000000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "0.000000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "end_point": {
+        "x": {
+          "value": "2.000000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "0.000000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Line2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D100",
+        "attributes": {
+          "mapping": {},
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "0.5",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "start_point": {
+        "x": {
+          "value": "0.000000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "-2.000000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "end_point": {
+        "x": {
+          "value": "0.000000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "2.000000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "center_point": {
+        "x": {
+          "value": "0.000000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "0.000000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "CCArc2"
+    }
+  ],
+  "__class_qualname__": "ReadonlyCommandBuffer2"
+}

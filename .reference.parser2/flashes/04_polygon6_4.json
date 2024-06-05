@@ -1,0 +1,165 @@
+{
+  "commands": [
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D100",
+        "attributes": {
+          "mapping": {},
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "outer_diameter": {
+          "value": "2.00",
+          "__class_qualname__": "Offset"
+        },
+        "number_vertices": 6,
+        "rotation": "0.0",
+        "hole_diameter": null,
+        "__class_qualname__": "Polygon2"
+      },
+      "flash_point": {
+        "x": {
+          "value": "0.000000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "0.000000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Flash2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D200",
+        "attributes": {
+          "mapping": {},
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "outer_diameter": {
+          "value": "4.00",
+          "__class_qualname__": "Offset"
+        },
+        "number_vertices": 6,
+        "rotation": "0.0",
+        "hole_diameter": null,
+        "__class_qualname__": "Polygon2"
+      },
+      "flash_point": {
+        "x": {
+          "value": "3.500000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "0.000000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Flash2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D300",
+        "attributes": {
+          "mapping": {},
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "outer_diameter": {
+          "value": "6.00",
+          "__class_qualname__": "Offset"
+        },
+        "number_vertices": 6,
+        "rotation": "0.0",
+        "hole_diameter": null,
+        "__class_qualname__": "Polygon2"
+      },
+      "flash_point": {
+        "x": {
+          "value": "9.000000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "0.000000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Flash2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D400",
+        "attributes": {
+          "mapping": {},
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "outer_diameter": {
+          "value": "8.00",
+          "__class_qualname__": "Offset"
+        },
+        "number_vertices": 6,
+        "rotation": "0.0",
+        "hole_diameter": null,
+        "__class_qualname__": "Polygon2"
+      },
+      "flash_point": {
+        "x": {
+          "value": "16.500000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "0.000000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Flash2"
+    }
+  ],
+  "__class_qualname__": "ReadonlyCommandBuffer2"
+}

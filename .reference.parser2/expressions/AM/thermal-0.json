@@ -1,0 +1,116 @@
+{
+  "commands": [
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D19",
+        "attributes": {
+          "mapping": {},
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "command_buffer": {
+          "commands": [],
+          "__class_qualname__": "ReadonlyCommandBuffer2"
+        },
+        "__class_qualname__": "Macro2"
+      },
+      "flash_point": {
+        "x": {
+          "value": "3.000000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "3.000000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Flash2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D19",
+        "attributes": {
+          "mapping": {},
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "command_buffer": {
+          "commands": [],
+          "__class_qualname__": "ReadonlyCommandBuffer2"
+        },
+        "__class_qualname__": "Macro2"
+      },
+      "flash_point": {
+        "x": {
+          "value": "-3.000000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "-3.000000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Flash2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D19",
+        "attributes": {
+          "mapping": {},
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "command_buffer": {
+          "commands": [],
+          "__class_qualname__": "ReadonlyCommandBuffer2"
+        },
+        "__class_qualname__": "Macro2"
+      },
+      "flash_point": {
+        "x": {
+          "value": "0.000000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "-3.000000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Flash2"
+    }
+  ],
+  "__class_qualname__": "ReadonlyCommandBuffer2"
+}

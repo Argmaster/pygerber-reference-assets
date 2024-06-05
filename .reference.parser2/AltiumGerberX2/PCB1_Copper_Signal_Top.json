@@ -1,0 +1,2808 @@
+{
+  "commands": [
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D10",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "SMDPad,CuDef"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "x_size": {
+          "value": "2.200000",
+          "__class_qualname__": "Offset"
+        },
+        "y_size": {
+          "value": "1.050000",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "rotation": "0.0",
+        "__class_qualname__": "Rectangle2"
+      },
+      "flash_point": {
+        "x": {
+          "value": "154.00000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "30.00000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Flash2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D10",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "SMDPad,CuDef"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "x_size": {
+          "value": "2.200000",
+          "__class_qualname__": "Offset"
+        },
+        "y_size": {
+          "value": "1.050000",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "rotation": "0.0",
+        "__class_qualname__": "Rectangle2"
+      },
+      "flash_point": {
+        "x": {
+          "value": "154.00000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "32.95000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Flash2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D11",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "SMDPad,CuDef"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "x_size": {
+          "value": "1.050000",
+          "__class_qualname__": "Offset"
+        },
+        "y_size": {
+          "value": "1.000000",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "rotation": "0.0",
+        "__class_qualname__": "Rectangle2"
+      },
+      "flash_point": {
+        "x": {
+          "value": "152.47501",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "31.47500",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Flash2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D12",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "SMDPad,CuDef"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "x_size": {
+          "value": "0.950000",
+          "__class_qualname__": "Offset"
+        },
+        "y_size": {
+          "value": "0.450000",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "rotation": "0.0",
+        "__class_qualname__": "Rectangle2"
+      },
+      "flash_point": {
+        "x": {
+          "value": "165.32100",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "33.69600",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Flash2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D12",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "SMDPad,CuDef"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "x_size": {
+          "value": "0.950000",
+          "__class_qualname__": "Offset"
+        },
+        "y_size": {
+          "value": "0.450000",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "rotation": "0.0",
+        "__class_qualname__": "Rectangle2"
+      },
+      "flash_point": {
+        "x": {
+          "value": "165.32100",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "32.89600",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Flash2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D12",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "SMDPad,CuDef"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "x_size": {
+          "value": "0.950000",
+          "__class_qualname__": "Offset"
+        },
+        "y_size": {
+          "value": "0.450000",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "rotation": "0.0",
+        "__class_qualname__": "Rectangle2"
+      },
+      "flash_point": {
+        "x": {
+          "value": "165.32100",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "32.09600",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Flash2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D12",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "SMDPad,CuDef"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "x_size": {
+          "value": "0.950000",
+          "__class_qualname__": "Offset"
+        },
+        "y_size": {
+          "value": "0.450000",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "rotation": "0.0",
+        "__class_qualname__": "Rectangle2"
+      },
+      "flash_point": {
+        "x": {
+          "value": "165.32100",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "31.29600",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Flash2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D12",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "SMDPad,CuDef"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "x_size": {
+          "value": "0.950000",
+          "__class_qualname__": "Offset"
+        },
+        "y_size": {
+          "value": "0.450000",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "rotation": "0.0",
+        "__class_qualname__": "Rectangle2"
+      },
+      "flash_point": {
+        "x": {
+          "value": "167.07100",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "33.69600",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Flash2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D12",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "SMDPad,CuDef"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "x_size": {
+          "value": "0.950000",
+          "__class_qualname__": "Offset"
+        },
+        "y_size": {
+          "value": "0.450000",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "rotation": "0.0",
+        "__class_qualname__": "Rectangle2"
+      },
+      "flash_point": {
+        "x": {
+          "value": "167.07100",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "32.89600",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Flash2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D12",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "SMDPad,CuDef"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "x_size": {
+          "value": "0.950000",
+          "__class_qualname__": "Offset"
+        },
+        "y_size": {
+          "value": "0.450000",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "rotation": "0.0",
+        "__class_qualname__": "Rectangle2"
+      },
+      "flash_point": {
+        "x": {
+          "value": "167.07100",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "32.09600",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Flash2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D12",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "SMDPad,CuDef"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "x_size": {
+          "value": "0.950000",
+          "__class_qualname__": "Offset"
+        },
+        "y_size": {
+          "value": "0.450000",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "rotation": "0.0",
+        "__class_qualname__": "Rectangle2"
+      },
+      "flash_point": {
+        "x": {
+          "value": "167.07100",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "31.29600",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Flash2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D12",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "SMDPad,CuDef"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "x_size": {
+          "value": "0.950000",
+          "__class_qualname__": "Offset"
+        },
+        "y_size": {
+          "value": "0.450000",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "rotation": "0.0",
+        "__class_qualname__": "Rectangle2"
+      },
+      "flash_point": {
+        "x": {
+          "value": "159.98700",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "33.69600",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Flash2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D12",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "SMDPad,CuDef"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "x_size": {
+          "value": "0.950000",
+          "__class_qualname__": "Offset"
+        },
+        "y_size": {
+          "value": "0.450000",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "rotation": "0.0",
+        "__class_qualname__": "Rectangle2"
+      },
+      "flash_point": {
+        "x": {
+          "value": "159.98700",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "32.89600",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Flash2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D12",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "SMDPad,CuDef"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "x_size": {
+          "value": "0.950000",
+          "__class_qualname__": "Offset"
+        },
+        "y_size": {
+          "value": "0.450000",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "rotation": "0.0",
+        "__class_qualname__": "Rectangle2"
+      },
+      "flash_point": {
+        "x": {
+          "value": "159.98700",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "32.09600",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Flash2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D12",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "SMDPad,CuDef"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "x_size": {
+          "value": "0.950000",
+          "__class_qualname__": "Offset"
+        },
+        "y_size": {
+          "value": "0.450000",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "rotation": "0.0",
+        "__class_qualname__": "Rectangle2"
+      },
+      "flash_point": {
+        "x": {
+          "value": "159.98700",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "31.29600",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Flash2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D12",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "SMDPad,CuDef"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "x_size": {
+          "value": "0.950000",
+          "__class_qualname__": "Offset"
+        },
+        "y_size": {
+          "value": "0.450000",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "rotation": "0.0",
+        "__class_qualname__": "Rectangle2"
+      },
+      "flash_point": {
+        "x": {
+          "value": "161.73700",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "33.69600",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Flash2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D12",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "SMDPad,CuDef"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "x_size": {
+          "value": "0.950000",
+          "__class_qualname__": "Offset"
+        },
+        "y_size": {
+          "value": "0.450000",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "rotation": "0.0",
+        "__class_qualname__": "Rectangle2"
+      },
+      "flash_point": {
+        "x": {
+          "value": "161.73700",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "32.89600",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Flash2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D12",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "SMDPad,CuDef"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "x_size": {
+          "value": "0.950000",
+          "__class_qualname__": "Offset"
+        },
+        "y_size": {
+          "value": "0.450000",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "rotation": "0.0",
+        "__class_qualname__": "Rectangle2"
+      },
+      "flash_point": {
+        "x": {
+          "value": "161.73700",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "32.09600",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Flash2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D12",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "SMDPad,CuDef"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "x_size": {
+          "value": "0.950000",
+          "__class_qualname__": "Offset"
+        },
+        "y_size": {
+          "value": "0.450000",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "rotation": "0.0",
+        "__class_qualname__": "Rectangle2"
+      },
+      "flash_point": {
+        "x": {
+          "value": "161.73700",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "31.29600",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Flash2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D13",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "Conductor"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "0.25400",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "start_point": {
+        "x": {
+          "value": "165.30000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "31.27500",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "end_point": {
+        "x": {
+          "value": "165.32100",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "31.29600",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Line2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D13",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "Conductor"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "0.25400",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "start_point": {
+        "x": {
+          "value": "165.30000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "29.40000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "end_point": {
+        "x": {
+          "value": "165.30000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "31.27500",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Line2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D13",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "Conductor"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "0.25400",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "start_point": {
+        "x": {
+          "value": "161.70000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "31.25900",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "end_point": {
+        "x": {
+          "value": "161.73700",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "31.29600",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Line2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D13",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "Conductor"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "0.25400",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "start_point": {
+        "x": {
+          "value": "161.70000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "29.30000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "end_point": {
+        "x": {
+          "value": "161.70000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "31.25900",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Line2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D13",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "Conductor"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "0.25400",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "start_point": {
+        "x": {
+          "value": "159.98700",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "31.29600",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "end_point": {
+        "x": {
+          "value": "160.00000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "31.28300",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Line2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D13",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "Conductor"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "0.25400",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "start_point": {
+        "x": {
+          "value": "167.07100",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "31.29600",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "end_point": {
+        "x": {
+          "value": "167.32100",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "31.29600",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Line2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D13",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "Conductor"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "0.25400",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "start_point": {
+        "x": {
+          "value": "167.32100",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "31.29600",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "end_point": {
+        "x": {
+          "value": "168.61700",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "30.00000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Line2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D13",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "Conductor"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "0.25400",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "start_point": {
+        "x": {
+          "value": "168.61700",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "30.00000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "end_point": {
+        "x": {
+          "value": "170.00000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "30.00000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Line2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D13",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "Conductor"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "0.25400",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "start_point": {
+        "x": {
+          "value": "167.07100",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "33.69600",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "end_point": {
+        "x": {
+          "value": "169.49413",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "33.69600",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Line2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D13",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "Conductor"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "0.25400",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "start_point": {
+        "x": {
+          "value": "169.49413",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "33.69600",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "end_point": {
+        "x": {
+          "value": "169.79813",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "34.00000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Line2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D13",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "Conductor"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "0.25400",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "start_point": {
+        "x": {
+          "value": "169.79813",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "34.00000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "end_point": {
+        "x": {
+          "value": "170.00000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "34.00000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Line2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D13",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "Conductor"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "0.25400",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "start_point": {
+        "x": {
+          "value": "154.00000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "32.95000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "end_point": {
+        "x": {
+          "value": "154.05000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "33.00000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Line2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D13",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "Conductor"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "0.25400",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "start_point": {
+        "x": {
+          "value": "154.05000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "33.00000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "end_point": {
+        "x": {
+          "value": "157.00000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "33.00000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Line2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D13",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "Conductor"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "0.25400",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "start_point": {
+        "x": {
+          "value": "157.90401",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "32.09600",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "end_point": {
+        "x": {
+          "value": "159.98700",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "32.09600",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Line2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D13",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "Conductor"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "0.25400",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "start_point": {
+        "x": {
+          "value": "157.00000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "33.00000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "end_point": {
+        "x": {
+          "value": "157.90401",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "32.09600",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Line2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D13",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "Conductor"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "0.25400",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "start_point": {
+        "x": {
+          "value": "158.29601",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "31.29600",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "end_point": {
+        "x": {
+          "value": "159.98700",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "31.29600",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Line2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D13",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "Conductor"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "0.25400",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "start_point": {
+        "x": {
+          "value": "157.00000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "30.00000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "end_point": {
+        "x": {
+          "value": "158.29601",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "31.29600",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Line2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D13",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "Conductor"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "0.25400",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "start_point": {
+        "x": {
+          "value": "154.00000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "30.00000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "end_point": {
+        "x": {
+          "value": "157.00000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "30.00000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Line2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D13",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "Conductor"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "0.25400",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "start_point": {
+        "x": {
+          "value": "161.73700",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "32.09600",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "end_point": {
+        "x": {
+          "value": "165.32100",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "32.09600",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Line2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D13",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "Conductor"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "0.25400",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "start_point": {
+        "x": {
+          "value": "161.73700",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "32.89600",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "end_point": {
+        "x": {
+          "value": "165.32100",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "32.89600",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Line2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D13",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "Conductor"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "0.25400",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "start_point": {
+        "x": {
+          "value": "161.73700",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "33.69600",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "end_point": {
+        "x": {
+          "value": "165.32100",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "33.69600",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Line2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D13",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "Conductor"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "0.25400",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "start_point": {
+        "x": {
+          "value": "151.52499",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "31.47500",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "end_point": {
+        "x": {
+          "value": "152.47501",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "31.47500",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Line2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D13",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "Conductor"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "0.25400",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "start_point": {
+        "x": {
+          "value": "151.00000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "32.00000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "end_point": {
+        "x": {
+          "value": "151.52499",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "31.47500",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Line2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D13",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "Conductor"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "0.25400",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "start_point": {
+        "x": {
+          "value": "151.00000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "32.00000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "end_point": {
+        "x": {
+          "value": "151.00000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "33.00000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Line2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D13",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "Conductor"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "0.25400",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "start_point": {
+        "x": {
+          "value": "151.00000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "33.00000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "end_point": {
+        "x": {
+          "value": "152.00000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "34.00000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Line2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D13",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "Conductor"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "0.25400",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "start_point": {
+        "x": {
+          "value": "152.00000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "34.00000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "end_point": {
+        "x": {
+          "value": "158.00000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "34.00000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Line2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D13",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "Conductor"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "0.25400",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "start_point": {
+        "x": {
+          "value": "159.10400",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "32.89600",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "end_point": {
+        "x": {
+          "value": "159.98700",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "32.89600",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Line2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D13",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "Conductor"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "0.25400",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "start_point": {
+        "x": {
+          "value": "158.00000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "34.00000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "end_point": {
+        "x": {
+          "value": "159.10400",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "32.89600",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Line2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D14",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "ComponentPad"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "7.00000",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "flash_point": {
+        "x": {
+          "value": "149.85616",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "40.14385",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Flash2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D15",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "ComponentPad"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "1.00000",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "flash_point": {
+        "x": {
+          "value": "149.85616",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "37.51885",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Flash2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D15",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "ComponentPad"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "1.00000",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "flash_point": {
+        "x": {
+          "value": "148.00000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "38.28769",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Flash2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D15",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "ComponentPad"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "1.00000",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "flash_point": {
+        "x": {
+          "value": "147.23116",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "40.14385",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Flash2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D15",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "ComponentPad"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "1.00000",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "flash_point": {
+        "x": {
+          "value": "151.71231",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "38.28769",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Flash2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D15",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "ComponentPad"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "1.00000",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "flash_point": {
+        "x": {
+          "value": "152.48116",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "40.14385",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Flash2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D15",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "ComponentPad"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "1.00000",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "flash_point": {
+        "x": {
+          "value": "151.71231",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "42.00000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Flash2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D15",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "ComponentPad"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "1.00000",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "flash_point": {
+        "x": {
+          "value": "149.85616",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "42.76885",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Flash2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D15",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "ComponentPad"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "1.00000",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "flash_point": {
+        "x": {
+          "value": "148.00000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "42.00000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Flash2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D16",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "TestPad"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "1.00000",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "flash_point": {
+        "x": {
+          "value": "170.00000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "34.00000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Flash2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D16",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "TestPad"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "1.00000",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "flash_point": {
+        "x": {
+          "value": "170.00000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "30.00000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Flash2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D17",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "ViaPad"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "1.27000",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "flash_point": {
+        "x": {
+          "value": "165.30000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "29.40000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Flash2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D17",
+        "attributes": {
+          "mapping": {
+            ".AperFunction": "ViaPad"
+          },
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "1.27000",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": null,
+        "__class_qualname__": "Circle2"
+      },
+      "flash_point": {
+        "x": {
+          "value": "161.70000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "29.30000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Flash2"
+    }
+  ],
+  "__class_qualname__": "ReadonlyCommandBuffer2"
+}
