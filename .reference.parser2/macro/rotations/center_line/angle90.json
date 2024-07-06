@@ -1,0 +1,127 @@
+{
+  "commands": [
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D10",
+        "attributes": {
+          "mapping": {},
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "diameter": {
+          "value": "1.3",
+          "__class_qualname__": "Offset"
+        },
+        "hole_diameter": {
+          "value": "1.2",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Circle2"
+      },
+      "flash_point": {
+        "x": {
+          "value": "0.000000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "0.000000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Flash2"
+    },
+    {
+      "transform": {
+        "polarity": "D",
+        "mirroring": "N",
+        "rotation": "0.0",
+        "scaling": "1.0",
+        "__class_qualname__": "ApertureTransform"
+      },
+      "attributes": {
+        "mapping": {},
+        "__class_qualname__": "ObjectAttributes"
+      },
+      "aperture": {
+        "identifier": "D11",
+        "attributes": {
+          "mapping": {},
+          "__class_qualname__": "ApertureAttributes"
+        },
+        "command_buffer": {
+          "commands": [
+            {
+              "transform": {
+                "polarity": "D",
+                "mirroring": "N",
+                "rotation": "0.0",
+                "scaling": "1.0",
+                "__class_qualname__": "ApertureTransform"
+              },
+              "attributes": {
+                "mapping": {},
+                "__class_qualname__": "ObjectAttributes"
+              },
+              "aperture": {
+                "identifier": "0",
+                "attributes": {
+                  "mapping": {},
+                  "__class_qualname__": "ImmutableMapping"
+                },
+                "x_size": {
+                  "value": "0.750000",
+                  "__class_qualname__": "Offset"
+                },
+                "y_size": {
+                  "value": "0.10000",
+                  "__class_qualname__": "Offset"
+                },
+                "hole_diameter": null,
+                "rotation": "90.0",
+                "__class_qualname__": "Rectangle2"
+              },
+              "flash_point": {
+                "x": {
+                  "value": "0E-106",
+                  "__class_qualname__": "Offset"
+                },
+                "y": {
+                  "value": "0E-106",
+                  "__class_qualname__": "Offset"
+                },
+                "__class_qualname__": "Vector2D"
+              },
+              "__class_qualname__": "Flash2"
+            }
+          ],
+          "__class_qualname__": "ReadonlyCommandBuffer2"
+        },
+        "__class_qualname__": "Macro2"
+      },
+      "flash_point": {
+        "x": {
+          "value": "0.200000",
+          "__class_qualname__": "Offset"
+        },
+        "y": {
+          "value": "0.000000",
+          "__class_qualname__": "Offset"
+        },
+        "__class_qualname__": "Vector2D"
+      },
+      "__class_qualname__": "Flash2"
+    }
+  ],
+  "__class_qualname__": "ReadonlyCommandBuffer2"
+}
