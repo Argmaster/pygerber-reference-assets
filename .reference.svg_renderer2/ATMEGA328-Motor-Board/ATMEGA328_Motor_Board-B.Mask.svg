@@ -6,40 +6,40 @@
 <rect x="-33.3068000" y="-47.4675000" width="133.2272000" height="189.8700000" fill="white" />
 </mask>
 <g id="d1">
-<rect x="-0.8800000" y="-1.3300000" width="1.7600000" height="2.6600000" fill="#133d91ff" rx="0.880000" ry="0.880000" transform="rotate(0.0)" />
+<rect x="-0.8800000" y="-1.3300000" width="1.7600000" height="2.6600000" fill="#133d91ff" rx="0.880000" ry="0.880000" transform="rotate(-0.0)" />
 </g>
 <g id="d2">
-<rect x="-1.3300000" y="-1.0800000" width="2.6600000" height="2.1600000" fill="#133d91ff" transform="rotate(0.0)" />
+<rect x="-1.3300000" y="-1.0800000" width="2.6600000" height="2.1600000" fill="#133d91ff" transform="rotate(-0.0)" />
 </g>
 <g id="d3">
-<rect x="-1.3500000" y="-0.8420000" width="2.7000000" height="1.6840000" fill="#133d91ff" rx="0.842000" ry="0.842000" transform="rotate(0.0)" />
+<rect x="-1.3500000" y="-0.8420000" width="2.7000000" height="1.6840000" fill="#133d91ff" rx="0.842000" ry="0.842000" transform="rotate(-0.0)" />
 </g>
 <g id="d4">
-<rect x="-1.0800000" y="-1.5800000" width="2.1600000" height="3.1600000" fill="#133d91ff" rx="1.080000" ry="1.080000" transform="rotate(0.0)" />
+<rect x="-1.0800000" y="-1.5800000" width="2.1600000" height="3.1600000" fill="#133d91ff" rx="1.080000" ry="1.080000" transform="rotate(-0.0)" />
 </g>
 <g id="d5">
-<rect x="-0.9436000" y="-1.0960000" width="1.8872000" height="2.1920000" fill="#133d91ff" transform="rotate(0.0)" />
+<rect x="-0.9436000" y="-1.0960000" width="1.8872000" height="2.1920000" fill="#133d91ff" transform="rotate(-0.0)" />
 </g>
 <g id="d6">
-<rect x="-0.9436000" y="-1.0960000" width="1.8872000" height="2.1920000" fill="#133d91ff" rx="0.943600" ry="0.943600" transform="rotate(0.0)" />
+<rect x="-0.9436000" y="-1.0960000" width="1.8872000" height="2.1920000" fill="#133d91ff" rx="0.943600" ry="0.943600" transform="rotate(-0.0)" />
 </g>
 <g id="d7">
-<rect x="-1.0960000" y="-0.9436000" width="2.1920000" height="1.8872000" fill="#133d91ff" transform="rotate(0.0)" />
+<rect x="-1.0960000" y="-0.9436000" width="2.1920000" height="1.8872000" fill="#133d91ff" transform="rotate(-0.0)" />
 </g>
 <g id="d8">
-<rect x="-1.0960000" y="-0.9436000" width="2.1920000" height="1.8872000" fill="#133d91ff" rx="0.943600" ry="0.943600" transform="rotate(0.0)" />
+<rect x="-1.0960000" y="-0.9436000" width="2.1920000" height="1.8872000" fill="#133d91ff" rx="0.943600" ry="0.943600" transform="rotate(-0.0)" />
 </g>
 <g id="d9">
-<rect x="-0.9436000" y="-0.9436000" width="1.8872000" height="1.8872000" fill="#133d91ff" transform="rotate(0.0)" />
+<rect x="-0.9436000" y="-0.9436000" width="1.8872000" height="1.8872000" fill="#133d91ff" transform="rotate(-0.0)" />
 </g>
 <g id="d10">
-<rect x="-0.9436000" y="-0.9436000" width="1.8872000" height="1.8872000" fill="#133d91ff" rx="0.943600" ry="0.943600" transform="rotate(0.0)" />
+<rect x="-0.9436000" y="-0.9436000" width="1.8872000" height="1.8872000" fill="#133d91ff" rx="0.943600" ry="0.943600" transform="rotate(-0.0)" />
 </g>
 <g id="d11">
-<rect x="-1.0960000" y="-1.0960000" width="2.1920000" height="2.1920000" fill="#133d91ff" transform="rotate(0.0)" />
+<rect x="-1.0960000" y="-1.0960000" width="2.1920000" height="2.1920000" fill="#133d91ff" transform="rotate(-0.0)" />
 </g>
 <g id="d12">
-<rect x="-1.0960000" y="-1.0960000" width="2.1920000" height="2.1920000" fill="#133d91ff" rx="1.096000" ry="1.096000" transform="rotate(0.0)" />
+<rect x="-1.0960000" y="-1.0960000" width="2.1920000" height="2.1920000" fill="#133d91ff" rx="1.096000" ry="1.096000" transform="rotate(-0.0)" />
 </g>
 </defs>
 <g mask="url(#d0)">

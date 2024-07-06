@@ -6,7 +6,7 @@
 <rect x="-717.141000" y="-509.8076875" width="2868.564000" height="2039.230750" fill="white" />
 </mask>
 <g id="d1">
-<rect x="-5.0" y="-10.0" width="10.0" height="20.0" fill="#133d91ff" transform="rotate(0.0)" />
+<rect x="-5.0" y="-10.0" width="10.0" height="20.0" fill="#133d91ff" transform="rotate(-0.0)" />
 </g>
 <g id="d2">
 <circle cx="0" cy="0" r="3.75000" fill="#133d91ff" />
@@ -15,7 +15,7 @@
 <circle cx="0" cy="0" r="7.5" fill="#133d91ff" />
 </g>
 <g id="d4">
-<rect x="-10.0" y="-5.0" width="20.0" height="10.0" fill="#133d91ff" transform="rotate(0.0)" />
+<rect x="-10.0" y="-5.0" width="20.0" height="10.0" fill="#133d91ff" transform="rotate(-0.0)" />
 </g>
 </defs>
 <g mask="url(#d0)">

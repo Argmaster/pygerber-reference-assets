@@ -9,7 +9,7 @@
 <circle cx="0" cy="0" r="0.07500" fill="#133d91ff" />
 </g>
 <g id="d2">
-<rect x="-1.0160000" y="-0.8636000" width="2.0320000" height="1.7272000" fill="#133d91ff" rx="0.863600" ry="0.863600" transform="rotate(0.0)" />
+<rect x="-1.0160000" y="-0.8636000" width="2.0320000" height="1.7272000" fill="#133d91ff" rx="0.863600" ry="0.863600" transform="rotate(-0.0)" />
 </g>
 <g id="d3">
 <circle cx="0" cy="0" r="1.27000" fill="#133d91ff" />

@@ -10,28 +10,28 @@
 <circle cx="0" cy="0" r="0.25" fill="black" />
 </mask>
 <g mask="url(#d1)" id="d2">
-<rect x="-0.50" y="-1.00" width="1.00" height="2.00" fill="#133d91ff" transform="rotate(0.0)" />
+<rect x="-0.50" y="-1.00" width="1.00" height="2.00" fill="#133d91ff" transform="rotate(-0.0)" />
 </g>
 <mask id="d3">
 <rect x="-1.00" y="-2.00" width="2.00" height="4.00" fill="white" />
 <circle cx="0" cy="0" r="0.75" fill="black" />
 </mask>
 <g mask="url(#d3)" id="d4">
-<rect x="-1.00" y="-2.00" width="2.00" height="4.00" fill="#133d91ff" transform="rotate(0.0)" />
+<rect x="-1.00" y="-2.00" width="2.00" height="4.00" fill="#133d91ff" transform="rotate(-0.0)" />
 </g>
 <mask id="d5">
 <rect x="-1.50" y="-3.00" width="3.00" height="6.00" fill="white" />
 <circle cx="0" cy="0" r="1.25" fill="black" />
 </mask>
 <g mask="url(#d5)" id="d6">
-<rect x="-1.50" y="-3.00" width="3.00" height="6.00" fill="#133d91ff" transform="rotate(0.0)" />
+<rect x="-1.50" y="-3.00" width="3.00" height="6.00" fill="#133d91ff" transform="rotate(-0.0)" />
 </g>
 <mask id="d7">
 <rect x="-2.00" y="-4.00" width="4.00" height="8.00" fill="white" />
 <circle cx="0" cy="0" r="1.75" fill="black" />
 </mask>
 <g mask="url(#d7)" id="d8">
-<rect x="-2.00" y="-4.00" width="4.00" height="8.00" fill="#133d91ff" transform="rotate(0.0)" />
+<rect x="-2.00" y="-4.00" width="4.00" height="8.00" fill="#133d91ff" transform="rotate(-0.0)" />
 </g>
 </defs>
 <g mask="url(#d0)">

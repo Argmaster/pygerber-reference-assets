@@ -35,16 +35,16 @@
 <circle cx="0" cy="0" r="1.524000" fill="black" />
 </g>
 <g id="d4">
-<rect x="-1.39700000" y="-1.39700000" width="2.79400000" height="2.79400000" fill="black" transform="rotate(0.0)" />
+<rect x="-1.39700000" y="-1.39700000" width="2.79400000" height="2.79400000" fill="black" transform="rotate(-0.0)" />
 </g>
 <g id="d5">
-<rect x="-1.65100000" y="-2.05740000" width="3.30200000" height="4.11480000" fill="black" transform="rotate(0.0)" />
+<rect x="-1.65100000" y="-2.05740000" width="3.30200000" height="4.11480000" fill="black" transform="rotate(-0.0)" />
 </g>
 <g id="d6">
-<rect x="-1.77800000" y="-1.06680000" width="3.55600000" height="2.13360000" fill="black" transform="rotate(0.0)" />
+<rect x="-1.77800000" y="-1.06680000" width="3.55600000" height="2.13360000" fill="black" transform="rotate(-0.0)" />
 </g>
 <g id="d7">
-<rect x="-1.52400000" y="-1.52400000" width="3.04800000" height="3.04800000" fill="black" transform="rotate(0.0)" />
+<rect x="-1.52400000" y="-1.52400000" width="3.04800000" height="3.04800000" fill="black" transform="rotate(-0.0)" />
 </g>
 <g id="d8">
 <circle cx="0" cy="0" r="0.952500" fill="black" />
@@ -327,16 +327,16 @@
 <circle cx="0" cy="0" r="0.762000" fill="#133d91ff" />
 </g>
 <g id="d13">
-<rect x="-0.63500000" y="-0.63500000" width="1.27000000" height="1.27000000" fill="#133d91ff" transform="rotate(0.0)" />
+<rect x="-0.63500000" y="-0.63500000" width="1.27000000" height="1.27000000" fill="#133d91ff" transform="rotate(-0.0)" />
 </g>
 <g id="d14">
-<rect x="-0.88900000" y="-1.29540000" width="1.77800000" height="2.59080000" fill="#133d91ff" transform="rotate(0.0)" />
+<rect x="-0.88900000" y="-1.29540000" width="1.77800000" height="2.59080000" fill="#133d91ff" transform="rotate(-0.0)" />
 </g>
 <g id="d15">
-<rect x="-1.01600000" y="-0.30480000" width="2.03200000" height="0.60960000" fill="#133d91ff" transform="rotate(0.0)" />
+<rect x="-1.01600000" y="-0.30480000" width="2.03200000" height="0.60960000" fill="#133d91ff" transform="rotate(-0.0)" />
 </g>
 <g id="d16">
-<rect x="-0.76200000" y="-0.76200000" width="1.52400000" height="1.52400000" fill="#133d91ff" transform="rotate(0.0)" />
+<rect x="-0.76200000" y="-0.76200000" width="1.52400000" height="1.52400000" fill="#133d91ff" transform="rotate(-0.0)" />
 </g>
 <g id="d17">
 <circle cx="0" cy="0" r="0.190500" fill="#133d91ff" />
@@ -364,8 +364,8 @@
 <use xlink:href="#d11" x="0.0635000" y="30.0355000" />
 <path d="M0.1270000,30.0355000 L0E-7,30.0355000 L0E-7,0.0635000 L0.1270000,0.0635000 Z" fill="#133d91ff" />
 <use xlink:href="#d11" x="0.0635000" y="0.0635000" />
-<path d="M28.3591000,30.0355000 L0.0635000,30.0355000 L0.0635000,0.0635000 L28.3591000,0.0635000 L28.3591000,30.0355000 Z" fill="#155c82ff" />
-<path d="M59.1185000,30.0355000 L30.5435000,30.0355000 L30.5435000,0.0635000 L59.1185000,0.0635000 L59.1185000,30.0355000 Z" fill="#155c82ff" />
+<path d="M28.35910000,30.03550000 L0.06350000,30.03550000 L0.06350000,0.06350000 L28.35910000,0.06350000 L28.35910000,30.03550000 Z" fill="#155c82ff" />
+<path d="M59.11850000,30.03550000 L30.54350000,30.03550000 L30.54350000,0.06350000 L59.11850000,0.06350000 L59.11850000,30.03550000 Z" fill="#155c82ff" />
 </g>
 <use xlink:href="#d12" x="10.1219000" y="9.9695000" />
 <use xlink:href="#d12" x="10.1219000" y="12.5095000" />

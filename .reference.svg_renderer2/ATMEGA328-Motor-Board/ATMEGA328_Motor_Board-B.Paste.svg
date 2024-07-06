@@ -6,7 +6,7 @@
 <rect x="-21.8238000" y="-2.4238000" width="87.2952000" height="9.6952000" fill="white" />
 </mask>
 <g id="d1">
-<rect x="-1.1738000" y="-0.9238000" width="2.3476000" height="1.8476000" fill="#133d91ff" transform="rotate(0.0)" />
+<rect x="-1.1738000" y="-0.9238000" width="2.3476000" height="1.8476000" fill="#133d91ff" transform="rotate(-0.0)" />
 </g>
 </defs>
 <g mask="url(#d0)">

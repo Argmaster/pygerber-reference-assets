@@ -9,7 +9,7 @@
 <circle cx="0" cy="0" r="0.32500" fill="#133d91ff" />
 </g>
 <g id="d2">
-<rect x="-0.8000000" y="-0.8000000" width="1.6000000" height="1.6000000" fill="#133d91ff" rx="0.800000" ry="0.800000" transform="rotate(0.0)" />
+<rect x="-0.8000000" y="-0.8000000" width="1.6000000" height="1.6000000" fill="#133d91ff" rx="0.800000" ry="0.800000" transform="rotate(-0.0)" />
 </g>
 <g id="d3">
 <circle cx="0" cy="0" r="1.80000" fill="#133d91ff" />
@@ -18,10 +18,10 @@
 <circle cx="0" cy="0" r="2.85000" fill="#133d91ff" />
 </g>
 <g id="d5">
-<rect x="-0.6750000" y="-0.6750000" width="1.3500000" height="1.3500000" fill="#133d91ff" transform="rotate(0.0)" />
+<rect x="-0.6750000" y="-0.6750000" width="1.3500000" height="1.3500000" fill="#133d91ff" transform="rotate(-0.0)" />
 </g>
 <g id="d6">
-<rect x="-0.6750000" y="-0.6750000" width="1.3500000" height="1.3500000" fill="#133d91ff" rx="0.675000" ry="0.675000" transform="rotate(0.0)" />
+<rect x="-0.6750000" y="-0.6750000" width="1.3500000" height="1.3500000" fill="#133d91ff" rx="0.675000" ry="0.675000" transform="rotate(-0.0)" />
 </g>
 </defs>
 <g mask="url(#d0)">

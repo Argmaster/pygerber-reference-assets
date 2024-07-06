@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="1.300000" height="1.300000" viewBox="0 0 1.300000 1.300000">
+<defs>
+<mask id="d0">
+<rect x="-0.650000" y="-0.650000" width="2.600000" height="2.600000" fill="white" />
+</mask>
+<mask id="d1">
+<rect x="-0.65" y="-0.65" width="1.30" height="1.30" fill="white" />
+<circle cx="0" cy="0" r="0.6" fill="black" />
+</mask>
+<g mask="url(#d1)" id="d2">
+<circle cx="0" cy="0" r="0.65" fill="#133d91ff" />
+</g>
+<mask id="d3">
+<rect x="-0.650000" y="-0.650000" width="2.600000" height="2.600000" fill="white" />
+</mask>
+<g id="d4">
+<rect x="-0.375000" y="-0.05000" width="0.750000" height="0.10000" fill="#133d91ff" transform="rotate(-180.0)" />
+</g>
+<g mask="url(#d3)" id="d5">
+<g></g>
+<use xlink:href="#d4" x="-0E-105" y="0E-105" />
+</g>
+</defs>
+<g mask="url(#d0)">
+<g></g>
+<use xlink:href="#d2" x="0.650000" y="0.650000" />
+<use xlink:href="#d5" x="0.850000" y="0.650000" />
+</g>
+</svg>

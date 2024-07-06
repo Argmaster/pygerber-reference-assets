@@ -12,10 +12,10 @@
 <rect x="-36.00560" y="-9.10160" width="144.02240" height="36.40640" fill="white" />
 </mask>
 <g id="d3">
-<rect x="-0.85160" y="-0.56250" width="1.70320" height="1.12500" fill="#133d91ff" transform="rotate(180.0)" />
+<rect x="-0.85160" y="-0.56250" width="1.70320" height="1.12500" fill="#133d91ff" transform="rotate(-180.0)" />
 </g>
 <g id="d4">
-<rect x="-0.56250" y="-0.85160" width="1.12500" height="1.70320" fill="#133d91ff" transform="rotate(180.0)" />
+<rect x="-0.56250" y="-0.85160" width="1.12500" height="1.70320" fill="#133d91ff" transform="rotate(-180.0)" />
 </g>
 <g id="d5">
 <circle cx="0" cy="0" r="0.2891" fill="#133d91ff" />
@@ -42,10 +42,10 @@
 <rect x="-36.00560" y="-9.10160" width="144.02240" height="36.40640" fill="white" />
 </mask>
 <g id="d11">
-<rect x="-0.85160" y="0.00000" width="1.70320" height="0.00000" fill="#133d91ff" transform="rotate(180.0)" />
+<rect x="-0.85160" y="0.00000" width="1.70320" height="0.00000" fill="#133d91ff" transform="rotate(-180.0)" />
 </g>
 <g id="d12">
-<rect x="0.00000" y="-0.85160" width="0.00000" height="1.70320" fill="#133d91ff" transform="rotate(180.0)" />
+<rect x="0.00000" y="-0.85160" width="0.00000" height="1.70320" fill="#133d91ff" transform="rotate(-180.0)" />
 </g>
 <g id="d13">
 <circle cx="0" cy="0" r="0.8516" fill="#133d91ff" />

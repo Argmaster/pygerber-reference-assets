@@ -6,13 +6,13 @@
 <rect x="-12.07192" y="-7.489425" width="48.28768" height="29.95770" fill="white" />
 </mask>
 <g id="d1">
-<rect x="-1.100000" y="-0.525000" width="2.200000" height="1.050000" fill="#133d91ff" transform="rotate(0.0)" />
+<rect x="-1.100000" y="-0.525000" width="2.200000" height="1.050000" fill="#133d91ff" transform="rotate(-0.0)" />
 </g>
 <g id="d2">
-<rect x="-0.525000" y="-0.500000" width="1.050000" height="1.000000" fill="#133d91ff" transform="rotate(0.0)" />
+<rect x="-0.525000" y="-0.500000" width="1.050000" height="1.000000" fill="#133d91ff" transform="rotate(-0.0)" />
 </g>
 <g id="d3">
-<rect x="-0.475000" y="-0.225000" width="0.950000" height="0.450000" fill="#133d91ff" transform="rotate(0.0)" />
+<rect x="-0.475000" y="-0.225000" width="0.950000" height="0.450000" fill="#133d91ff" transform="rotate(-0.0)" />
 </g>
 <g id="d4">
 <circle cx="0" cy="0" r="0.1270" fill="#133d91ff" />
